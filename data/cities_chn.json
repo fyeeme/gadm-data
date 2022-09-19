@@ -1,0 +1,795 @@
+{
+  "name": "China",
+  "provinces": [
+    {
+      "name": "Anhui",
+      "nl_name": "安徽",
+      "cities": [
+        { "name": "Anqing", "nl_name": "安庆市", "var_name": "Ānqìng" },
+        { "name": "Bengbu", "nl_name": "蚌埠市", "var_name": "Bèngbù" },
+        { "name": "Bozhou", "nl_name": "亳州市", "var_name": "Bózhōu" },
+        { "name": "Chaohu", "nl_name": "巢湖市", "var_name": "Cháohú" },
+        { "name": "Chizhou", "nl_name": "池州市", "var_name": "Chízhōu" },
+        { "name": "Chuzhou", "nl_name": "滁州市", "var_name": "Chúzhōu" },
+        { "name": "Fuyang", "nl_name": "阜阳市", "var_name": "Fùyáng" },
+        { "name": "Hefei", "nl_name": "合肥市", "var_name": "Héféi" },
+        { "name": "Huaibei", "nl_name": "淮北市", "var_name": "Huáiběi" },
+        { "name": "Huainan", "nl_name": "淮南市", "var_name": "Huáinán" },
+        { "name": "Huangshan", "nl_name": "黄山市", "var_name": "Huángshān" },
+        { "name": "Lu'an", "nl_name": "六安市", "var_name": "Lù'ān" },
+        { "name": "Ma'anshan", "nl_name": "马鞍山市", "var_name": "Mǎ'ānshān" },
+        { "name": "Suzhou", "nl_name": "宿州市", "var_name": "Sùzhōu" },
+        { "name": "Tongling", "nl_name": "铜陵市", "var_name": "Tónglíng" },
+        { "name": "Wuhu", "nl_name": "芜湖市", "var_name": "Wúhú" },
+        { "name": "Xuancheng", "nl_name": "宣城市", "var_name": "Xuānchéng" }
+      ]
+    },
+    {
+      "name": "Beijing",
+      "nl_name": "北京",
+      "cities": [
+        { "name": "Beijing", "nl_name": "北京|北京", "var_name": "Běijīng" }
+      ]
+    },
+    {
+      "name": "Chongqing",
+      "nl_name": "重庆",
+      "cities": [
+        { "name": "Chongqing", "nl_name": "重慶|重庆", "var_name": "Chóngqìng" }
+      ]
+    },
+    {
+      "name": "Fujian",
+      "nl_name": "福建",
+      "cities": [
+        { "name": "Fuzhou", "nl_name": "福州市", "var_name": "Fúzhōu" },
+        { "name": "Longyan", "nl_name": "龙岩市", "var_name": "Lóngyán" },
+        { "name": "Nanping", "nl_name": "南平市", "var_name": "Nánpíng" },
+        { "name": "Ningde", "nl_name": "宁德市", "var_name": "Níngdé" },
+        { "name": "Putian", "nl_name": "莆田市", "var_name": "Pútián" },
+        { "name": "Quanzhou", "nl_name": "泉州市", "var_name": "Quánzhōu" },
+        { "name": "Sanming", "nl_name": "三明市", "var_name": "Sānmíng" },
+        { "name": "Xiamen", "nl_name": "厦门市", "var_name": "Xiàmén" },
+        { "name": "Zhangzhou", "nl_name": "漳州市", "var_name": "Zhāngzhōu" }
+      ]
+    },
+    {
+      "name": "Gansu",
+      "nl_name": "甘肃",
+      "cities": [
+        { "name": "Baiyin", "nl_name": "白银市", "var_name": "Báiyín" },
+        { "name": "Dingxi", "nl_name": "定西市", "var_name": "Dìngxī" },
+        {
+          "name": "GannanTibetan",
+          "nl_name": "甘南藏族自治州",
+          "var_name": "GānnánZàngzú"
+        },
+        { "name": "Jiayuguan", "nl_name": "嘉峪关市", "var_name": "Jiāyùguān" },
+        { "name": "Jinchang", "nl_name": "金昌市", "var_name": "Jīnchāng" },
+        { "name": "Jiuquan", "nl_name": "酒泉市", "var_name": "Jiǔquán" },
+        { "name": "Lanzhou", "nl_name": "兰州市", "var_name": "Lánzhōu" },
+        {
+          "name": "LinxiaHui",
+          "nl_name": "临夏回族自治州",
+          "var_name": "LínxiàHuizù"
+        },
+        { "name": "Longnan", "nl_name": "陇南市", "var_name": "Lǒngnán" },
+        { "name": "Pingliang", "nl_name": "平凉市", "var_name": "Píngliáng" },
+        { "name": "Qingyang", "nl_name": "庆阳市", "var_name": "Qìngyáng" },
+        { "name": "Tianshui", "nl_name": "天水市", "var_name": "Tiānshuǐ" },
+        { "name": "Wuwei", "nl_name": "武威市", "var_name": "Wǔwēi" },
+        { "name": "Zhangye", "nl_name": "张掖市", "var_name": "Zhāngyè" }
+      ]
+    },
+    {
+      "name": "Guangdong",
+      "nl_name": "广东",
+      "cities": [
+        { "name": "Chaozhou", "nl_name": "潮州市", "var_name": "Cháozhōu" },
+        { "name": "Dongguan", "nl_name": "东莞市", "var_name": "Dōngguǎn" },
+        { "name": "Foshan", "nl_name": "佛山市", "var_name": "Fóshān" },
+        { "name": "Guangzhou", "nl_name": "广州市", "var_name": "Guǎngzhōu" },
+        { "name": "Heyuan", "nl_name": "河源市", "var_name": "Héyuán" },
+        { "name": "Huizhou", "nl_name": "惠州市", "var_name": "Huìzhōu" },
+        { "name": "Jiangmen", "nl_name": "江门市", "var_name": "Jiāngmén" },
+        { "name": "Jieyang", "nl_name": "揭阳市", "var_name": "Jiēyáng" },
+        { "name": "Maoming", "nl_name": "茂名市", "var_name": "Màomíng" },
+        { "name": "Meizhou", "nl_name": "梅州市", "var_name": "Méizhōu" },
+        { "name": "Qingyuan", "nl_name": "清远市", "var_name": "Qīngyuǎn" },
+        { "name": "Shantou", "nl_name": "汕头市", "var_name": "Shàntóu" },
+        { "name": "Shanwei", "nl_name": "汕尾市", "var_name": "Shànwěi" },
+        { "name": "Shaoguan", "nl_name": "韶关市", "var_name": "Sháoguān" },
+        { "name": "Shenzhen", "nl_name": "深圳市", "var_name": "Shēnzhèn" },
+        { "name": "Yangjiang", "nl_name": "阳江市", "var_name": "Yángjiāng" },
+        { "name": "Yunfu", "nl_name": "云浮市", "var_name": "Yúnfú" },
+        { "name": "Zhanjiang", "nl_name": "湛江市", "var_name": "Zhànjiāng" },
+        { "name": "Zhaoqing", "nl_name": "肇庆市", "var_name": "Zhàoqìng" },
+        { "name": "Zhongshan", "nl_name": "中山市", "var_name": "Zhōngshān" },
+        { "name": "Zhuhai", "nl_name": "珠海市", "var_name": "Zhūhǎi" }
+      ]
+    },
+    {
+      "name": "Guangxi",
+      "nl_name": "广西壮族自治区",
+      "cities": [
+        { "name": "Baise", "nl_name": "百色市", "var_name": "Bǎisè" },
+        { "name": "Beihai", "nl_name": "北海市", "var_name": "Běihǎi" },
+        { "name": "Chongzuo", "nl_name": "崇左市", "var_name": "Chóngzuǒ" },
+        {
+          "name": "Fangchenggang",
+          "nl_name": "防城港市",
+          "var_name": "Fángchénggǎng"
+        },
+        { "name": "Guigang", "nl_name": "贵港市", "var_name": "Guìgǎng" },
+        { "name": "Guilin", "nl_name": "桂林市", "var_name": "Guìlín" },
+        { "name": "Hechi", "nl_name": "河池市", "var_name": "Héchí" },
+        { "name": "Hezhou", "nl_name": "贺州市", "var_name": "Hèzhōu" },
+        { "name": "Laibin", "nl_name": "来宾市", "var_name": "Láibīn" },
+        { "name": "Liuzhou", "nl_name": "柳州市", "var_name": "Liǔzhōu" },
+        { "name": "Nanning", "nl_name": "南宁市", "var_name": "Nánníng" },
+        { "name": "Qinzhou", "nl_name": "钦州市", "var_name": "Qīnzhōu" },
+        { "name": "Wuzhou", "nl_name": "梧州市", "var_name": "Wúzhōu" },
+        { "name": "Yulin", "nl_name": "玉林市", "var_name": "Yùlín" }
+      ]
+    },
+    {
+      "name": "Guizhou",
+      "nl_name": "贵州",
+      "cities": [
+        { "name": "Anshun", "nl_name": "安顺市", "var_name": "Ānshùn" },
+        { "name": "Bijie", "nl_name": "毕节地区", "var_name": "Bìjié" },
+        { "name": "Guiyang", "nl_name": "贵阳市", "var_name": "Guìyáng" },
+        {
+          "name": "Liupanshui",
+          "nl_name": "六盘水市",
+          "var_name": "Liùpánshuǐ"
+        },
+        {
+          "name": "QiandongnanMiaoandDong",
+          "nl_name": "黔东南苗族侗族自治州",
+          "var_name": "QiándōngnánMiáozú|Dòngzú"
+        },
+        {
+          "name": "QiannanBuyeiandMiao",
+          "nl_name": "黔南布依族苗族自治州",
+          "var_name": "QiánnánBùyīzú|Miáozú"
+        },
+        {
+          "name": "QianxinanBuyeiandMiao",
+          "nl_name": "黔西南布依族苗族自治州",
+          "var_name": "QiánxīnánBùyīzú|Miáozú"
+        },
+        { "name": "Tongren", "nl_name": "铜仁地区", "var_name": "Tóngrén" },
+        { "name": "Zunyi", "nl_name": "遵义市", "var_name": "Zūnyì" }
+      ]
+    },
+    {
+      "name": "Hainan",
+      "nl_name": "海南",
+      "cities": [
+        { "name": "Haikou", "nl_name": "海口市", "var_name": "Hǎikǒu" },
+        { "name": "Hainan", "nl_name": "海南", "var_name": "Hǎinán" },
+        { "name": "Sanya", "nl_name": "三亚市", "var_name": "Sānyà" }
+      ]
+    },
+    {
+      "name": "Hebei",
+      "nl_name": "河北",
+      "cities": [
+        { "name": "Baoding", "nl_name": "保定市", "var_name": "Bǎodìng" },
+        { "name": "Cangzhou", "nl_name": "沧州市", "var_name": "Cāngzhōu" },
+        { "name": "Chengde", "nl_name": "承德市", "var_name": "Chéngdé" },
+        { "name": "Handan", "nl_name": "邯郸市", "var_name": "Hándān" },
+        { "name": "Hengshui", "nl_name": "衡水市", "var_name": "Héngshuǐ" },
+        { "name": "Langfang", "nl_name": "廊坊市", "var_name": "Lángfáng" },
+        {
+          "name": "Qinhuangdao",
+          "nl_name": "秦皇岛市",
+          "var_name": "Qínhuángdǎo"
+        },
+        {
+          "name": "Shijiazhuang",
+          "nl_name": "石家庄市",
+          "var_name": "Shíjiāzhuāng"
+        },
+        { "name": "Tangshan", "nl_name": "唐山市", "var_name": "Tángshān" },
+        { "name": "Xingtai", "nl_name": "邢台市", "var_name": "Xíngtái" },
+        {
+          "name": "Zhangjiakou",
+          "nl_name": "张家口市",
+          "var_name": "Zhāngjiākǒu"
+        }
+      ]
+    },
+    {
+      "name": "Heilongjiang",
+      "nl_name": "黑龍江省",
+      "cities": [
+        { "name": "Daqing", "nl_name": "大庆市", "var_name": "Dàqìng" },
+        {
+          "name": "Daxing'anling",
+          "nl_name": "大兴安岭地区",
+          "var_name": "Dàxīng'ānlǐng"
+        },
+        { "name": "Harbin", "nl_name": "哈尔滨市", "var_name": "Hā'ěrbīn" },
+        { "name": "Hegang", "nl_name": "鹤岗市", "var_name": "Hègǎng" },
+        { "name": "Heihe", "nl_name": "黑河市", "var_name": "Hēihé" },
+        { "name": "Jiamusi", "nl_name": "佳木斯市", "var_name": "Jiāmùsī" },
+        { "name": "Jixi", "nl_name": "鸡西市", "var_name": "Jīxī" },
+        {
+          "name": "Mudanjiang",
+          "nl_name": "牡丹江市",
+          "var_name": "Mǔdānjiāng"
+        },
+        { "name": "Qiqihar", "nl_name": "齐齐哈尔市", "var_name": "Qíqíhā'ěr" },
+        { "name": "Qitaihe", "nl_name": "七台河市", "var_name": "Qītáihé" },
+        {
+          "name": "Shuangyashan",
+          "nl_name": "双鸭山市",
+          "var_name": "Shuāngyāshān"
+        },
+        { "name": "Suihua", "nl_name": "绥化市", "var_name": "Suíhuà" },
+        { "name": "Yichun", "nl_name": "伊春市", "var_name": "Yīchūn" }
+      ]
+    },
+    {
+      "name": "Henan",
+      "nl_name": "河南",
+      "cities": [
+        { "name": "Anyang", "nl_name": "安阳市", "var_name": "Ānyáng" },
+        { "name": "Hebi", "nl_name": "鹤壁市", "var_name": "Hèbì" },
+        { "name": "Jiaozuo", "nl_name": "焦作市", "var_name": "Jiāozuò" },
+        { "name": "Jiyuanshi", "nl_name": "济源市", "var_name": "Jǐyuán" },
+        { "name": "Kaifeng", "nl_name": "开封市", "var_name": "Kāifēng" },
+        { "name": "Luohe", "nl_name": "漯河市", "var_name": "Luòhé" },
+        { "name": "Luoyang", "nl_name": "洛阳市", "var_name": "Luòyáng" },
+        { "name": "Nanyang", "nl_name": "南阳市", "var_name": "Nányáng" },
+        {
+          "name": "Pingdingshan",
+          "nl_name": "平顶山市",
+          "var_name": "Píngdǐngshān"
+        },
+        { "name": "Puyang", "nl_name": "濮阳市", "var_name": "Púyáng" },
+        { "name": "Sanmenxia", "nl_name": "三门峡市", "var_name": "Sānménxiá" },
+        { "name": "Shangqiu", "nl_name": "商丘市", "var_name": "ShāngqiūXiàn" },
+        { "name": "Xinxiang", "nl_name": "新乡市", "var_name": "Xīnxiāng" },
+        { "name": "Xinyang", "nl_name": "信阳市", "var_name": "Xìnyáng" },
+        { "name": "Xuchang", "nl_name": "许昌市", "var_name": "Xǔchāng" },
+        { "name": "Zhengzhou", "nl_name": "郑州市", "var_name": "Zhèngzhōu" },
+        { "name": "Zhoukou", "nl_name": "周口市", "var_name": "Zhōukǒu" },
+        { "name": "Zhumadian", "nl_name": "驻马店市", "var_name": "Zhùmǎdiàn" }
+      ]
+    },
+    {
+      "name": "HongKong",
+      "nl_name": "NA",
+      "cities": [
+        { "name": "CentralandWestern", "nl_name": "NA", "var_name": "NA" },
+        { "name": "Eastern", "nl_name": "NA", "var_name": "NA" },
+        { "name": "Islands", "nl_name": "NA", "var_name": "NA" },
+        { "name": "KowloonCity", "nl_name": "NA", "var_name": "NA" },
+        { "name": "KwaiTsing", "nl_name": "NA", "var_name": "NA" },
+        { "name": "KwunTong", "nl_name": "NA", "var_name": "NA" },
+        { "name": "North", "nl_name": "NA", "var_name": "<Null>" },
+        { "name": "SaiKung", "nl_name": "NA", "var_name": "<Null>" },
+        { "name": "ShaTin", "nl_name": "NA", "var_name": "NA" },
+        { "name": "ShamShuiPo", "nl_name": "NA", "var_name": "NA" },
+        { "name": "Southern", "nl_name": "NA", "var_name": "NA" },
+        { "name": "TaiPo", "nl_name": "NA", "var_name": "NA" },
+        { "name": "TsuenWan", "nl_name": "NA", "var_name": "NA" },
+        { "name": "TuenMun", "nl_name": "NA", "var_name": "NA" },
+        { "name": "WanChai", "nl_name": "NA", "var_name": "NA" },
+        { "name": "WongTaiSin", "nl_name": "NA", "var_name": "NA" },
+        { "name": "YauTsimMong", "nl_name": "NA", "var_name": "NA" },
+        { "name": "YuenLong", "nl_name": "NA", "var_name": "NA" }
+      ]
+    },
+    {
+      "name": "Hubei",
+      "nl_name": "湖北",
+      "cities": [
+        {
+          "name": "EnshiTujiaandMiao",
+          "nl_name": "恩施土家族苗族自治州",
+          "var_name": "ĒnshīTǔjiāzú|Miáozú"
+        },
+        { "name": "Ezhou", "nl_name": "鄂州市", "var_name": "Èzhōu" },
+        { "name": "Huanggang", "nl_name": "黄冈市", "var_name": "Huánggāng" },
+        { "name": "Huangshi", "nl_name": "黄石市", "var_name": "Huángshí" },
+        { "name": "Jingmen", "nl_name": "荆门市", "var_name": "Jīngmén" },
+        { "name": "Jingzhou", "nl_name": "荆州市", "var_name": "Jīngzhōu" },
+        { "name": "Qianjiang", "nl_name": "潜江市", "var_name": "Qiánjiāng" },
+        {
+          "name": "Shennongjia",
+          "nl_name": "神农架林区",
+          "var_name": "ShénnóngjiàLínqū"
+        },
+        { "name": "Shiyan", "nl_name": "十堰市", "var_name": "Shíyàn" },
+        { "name": "SuizhouShi", "nl_name": "随州市", "var_name": "Suízhōu" },
+        { "name": "Tianmen", "nl_name": "天门市", "var_name": "Tiānmén" },
+        { "name": "Wuhan", "nl_name": "武汉市", "var_name": "Wǔhàn" },
+        { "name": "Xiangfan", "nl_name": "襄樊市", "var_name": "Xiāngfán" },
+        { "name": "Xianning", "nl_name": "咸宁市", "var_name": "Xiánníng" },
+        { "name": "Xiantao", "nl_name": "仙桃市", "var_name": "Xiāntáo" },
+        { "name": "Xiaogan", "nl_name": "孝感市", "var_name": "Xiàogǎn" },
+        { "name": "Yichang", "nl_name": "宜昌市", "var_name": "Yíchāng" }
+      ]
+    },
+    {
+      "name": "Hunan",
+      "nl_name": "湖南",
+      "cities": [
+        {
+          "name": "Changde",
+          "nl_name": "常德市|常德市",
+          "var_name": "Chángdé"
+        },
+        {
+          "name": "Changsha",
+          "nl_name": "长沙市|長沙市",
+          "var_name": "Chángshā"
+        },
+        {
+          "name": "Chenzhou",
+          "nl_name": "郴州市|郴州市",
+          "var_name": "Chēnzhōu"
+        },
+        {
+          "name": "Hengyang",
+          "nl_name": "衡阳市|衡陽市",
+          "var_name": "Héngyáng"
+        },
+        {
+          "name": "Huaihua",
+          "nl_name": "怀化市|懷化市",
+          "var_name": "Huáihuà"
+        },
+        { "name": "Loudi", "nl_name": "娄底市|婁底市", "var_name": "Lóudǐ" },
+        {
+          "name": "Shaoyang",
+          "nl_name": "邵阳市|邵陽市",
+          "var_name": "Shàoyáng"
+        },
+        {
+          "name": "Xiangtan",
+          "nl_name": "湘潭市|湘潭市",
+          "var_name": "Xiāngtán"
+        },
+        {
+          "name": "XiangxiTujiaandMiao",
+          "nl_name": "湘西土家族苗族自治州|湘西土家族苗族自治州",
+          "var_name": "XiāngxīTǔjiāzú|Miáozú"
+        },
+        { "name": "Yiyang", "nl_name": "益阳市|益陽市", "var_name": "Yìyáng" },
+        {
+          "name": "Yongzhou",
+          "nl_name": "永州市|永州市",
+          "var_name": "Yǒngzhōu"
+        },
+        {
+          "name": "Yueyang",
+          "nl_name": "岳阳市|岳陽市",
+          "var_name": "Yuèyáng"
+        },
+        {
+          "name": "Zhangjiajie",
+          "nl_name": "张家界市|張家界市",
+          "var_name": "Zhāngjiājiè"
+        },
+        { "name": "Zhuzhou", "nl_name": "株洲市|株洲市", "var_name": "Zhūzhōu" }
+      ]
+    },
+    {
+      "name": "Jiangsu",
+      "nl_name": "江苏",
+      "cities": [
+        { "name": "Changzhou", "nl_name": "常州市", "var_name": "Chángzhōu" },
+        { "name": "Huai'an", "nl_name": "淮安市", "var_name": "Huái'ān" },
+        {
+          "name": "Lianyungang",
+          "nl_name": "连云港市",
+          "var_name": "Liányúngǎng"
+        },
+        { "name": "Nanjing", "nl_name": "南京市", "var_name": "Nánjīng" },
+        { "name": "Nantong", "nl_name": "南通市", "var_name": "Nántōng" },
+        { "name": "Suqian", "nl_name": "宿迁市", "var_name": "Sùqiān" },
+        { "name": "Suzhou", "nl_name": "苏州市", "var_name": "Sūzhōu" },
+        { "name": "Taizhou", "nl_name": "泰州市", "var_name": "Tàizhōu" },
+        { "name": "Wuxi", "nl_name": "无锡市", "var_name": "Wúxī" },
+        { "name": "Xuzhou", "nl_name": "徐州市", "var_name": "Xúzhōu" },
+        { "name": "Yancheng", "nl_name": "盐城市", "var_name": "Yánchéng" },
+        { "name": "Yangzhou", "nl_name": "扬州市", "var_name": "Yángzhōu" },
+        { "name": "Zhenjiang", "nl_name": "镇江市", "var_name": "Zhènjiāng" }
+      ]
+    },
+    {
+      "name": "Jiangxi",
+      "nl_name": "江西",
+      "cities": [
+        { "name": "Fuzhou", "nl_name": "抚州市", "var_name": "Fǔzhōu" },
+        { "name": "Ganzhou", "nl_name": "赣州市", "var_name": "Gànzhōu" },
+        { "name": "Ji'an", "nl_name": "吉安市", "var_name": "Jí'ān" },
+        {
+          "name": "Jingdezhen",
+          "nl_name": "景德镇市",
+          "var_name": "Jǐngdézhèn"
+        },
+        { "name": "Jiujiang", "nl_name": "九江市", "var_name": "Jiǔjiāng" },
+        { "name": "Nanchang", "nl_name": "南昌市", "var_name": "Nánchāng" },
+        { "name": "Pingxiang", "nl_name": "萍乡市", "var_name": "Píngxiāng" },
+        { "name": "Shangrao", "nl_name": "上饶市", "var_name": "Shàngráo" },
+        { "name": "Xinyu", "nl_name": "新余市", "var_name": "Xīnyú" },
+        { "name": "Yichun", "nl_name": "宜春市", "var_name": "Yíchūn" },
+        { "name": "Yingtan", "nl_name": "鹰潭市", "var_name": "Yīngtán" }
+      ]
+    },
+    {
+      "name": "Jilin",
+      "nl_name": "吉林",
+      "cities": [
+        { "name": "Baicheng", "nl_name": "白城市", "var_name": "Báichéng" },
+        { "name": "Baishan", "nl_name": "白山市", "var_name": "Báishān" },
+        { "name": "Changchun", "nl_name": "长春市", "var_name": "Chángchūn" },
+        { "name": "Jilin", "nl_name": "吉林市", "var_name": "Jílín" },
+        { "name": "Liaoyuan", "nl_name": "辽源市", "var_name": "Liáoyuán" },
+        { "name": "Siping", "nl_name": "四平市", "var_name": "Sìpíng" },
+        { "name": "Songyuan", "nl_name": "松原市", "var_name": "Sōngyuán" },
+        { "name": "Tonghua", "nl_name": "通化市", "var_name": "Tōnghuà" },
+        {
+          "name": "YanbianKorean",
+          "nl_name": "延边朝鲜族自治州",
+          "var_name": "YánbiānCháoxiǎnzú"
+        }
+      ]
+    },
+    {
+      "name": "Liaoning",
+      "nl_name": "辽宁",
+      "cities": [
+        { "name": "Anshan", "nl_name": "鞍山市", "var_name": "Ānshān" },
+        { "name": "Benxi", "nl_name": "本溪市", "var_name": "Běnxī" },
+        { "name": "Chaoyang", "nl_name": "朝阳市", "var_name": "Cháoyáng" },
+        { "name": "Dalian", "nl_name": "大连市", "var_name": "Dàlián" },
+        { "name": "Dandong", "nl_name": "丹东市", "var_name": "Dāndōng" },
+        { "name": "Fushun", "nl_name": "抚顺市", "var_name": "Fǔshùn" },
+        { "name": "Fuxin", "nl_name": "阜新市", "var_name": "Fùxīn" },
+        { "name": "Huludao", "nl_name": "葫芦岛市", "var_name": "Húludǎo" },
+        { "name": "Jinzhou", "nl_name": "锦州市", "var_name": "Jǐnzhōu" },
+        { "name": "Liaoyang", "nl_name": "辽阳市", "var_name": "Liáoyáng" },
+        { "name": "Panjin", "nl_name": "盘锦市", "var_name": "Pánjǐn" },
+        { "name": "Shenyang", "nl_name": "沈阳市", "var_name": "Shěnyáng" },
+        { "name": "Tieling", "nl_name": "铁岭市", "var_name": "Tiělǐng" }
+      ]
+    },
+    {
+      "name": "Macau",
+      "nl_name": "NA",
+      "cities": [
+        { "name": "Ilhas", "nl_name": "NA", "var_name": "NA" },
+        { "name": "Macau", "nl_name": "NA", "var_name": "NA" }
+      ]
+    },
+    {
+      "name": "NeiMongol",
+      "nl_name": "内蒙古自治区",
+      "cities": [
+        { "name": "Alxa", "nl_name": "阿拉善盟", "var_name": "Ālāshàn" },
+        { "name": "Baotou", "nl_name": "包头市", "var_name": "Bāotóu" },
+        {
+          "name": "Baynnur",
+          "nl_name": "巴彦淖尔市",
+          "var_name": "Bāyànnào'ěr"
+        },
+        { "name": "Chifeng", "nl_name": "赤峰市", "var_name": "Chìfēng" },
+        { "name": "Hohhot", "nl_name": "呼和浩特市", "var_name": "Hūhéhàotè" },
+        {
+          "name": "Hulunbuir",
+          "nl_name": "呼伦贝尔市",
+          "var_name": "Hūlúnbèi'ěr"
+        },
+        { "name": "Ordos", "nl_name": "鄂尔多斯市", "var_name": "È'ěrduōsī" },
+        { "name": "Tongliao", "nl_name": "通辽市", "var_name": "Tōngliáo" },
+        {
+          "name": "UlaanChab",
+          "nl_name": "乌兰察布市",
+          "var_name": "Wūlánchábù"
+        },
+        { "name": "Wuhai", "nl_name": "乌海市", "var_name": "Wūhǎi" },
+        {
+          "name": "XilinGol",
+          "nl_name": "锡林郭勒盟",
+          "var_name": "Xīlínguōlè"
+        },
+        { "name": "Xing'an", "nl_name": "兴安盟", "var_name": "Xīng'ān" }
+      ]
+    },
+    {
+      "name": "NingxiaHui",
+      "nl_name": "宁夏回族自治区",
+      "cities": [
+        { "name": "Guyuan", "nl_name": "固原市", "var_name": "Gùyuán" },
+        {
+          "name": "Shizuishan",
+          "nl_name": "石嘴山市",
+          "var_name": "Shízuǐshān"
+        },
+        { "name": "Wuzhong", "nl_name": "吴忠市", "var_name": "Wúzhōng" },
+        { "name": "Yinchuan", "nl_name": "银川市", "var_name": "Yínchuān" },
+        { "name": "Zhongwei", "nl_name": "中卫市", "var_name": "Zhōngwèi" }
+      ]
+    },
+    {
+      "name": "Qinghai",
+      "nl_name": "青海",
+      "cities": [
+        {
+          "name": "GologTibetan",
+          "nl_name": "果洛藏族自治州",
+          "var_name": "GuǒluòZàngzú"
+        },
+        {
+          "name": "GyêguTibetan",
+          "nl_name": "玉树藏族自治州",
+          "var_name": "YùshùZàngzú"
+        },
+        {
+          "name": "HaibeiTibetan",
+          "nl_name": "海北藏族自治州",
+          "var_name": "HǎiběiZàngzú"
+        },
+        { "name": "Haidong", "nl_name": "海东地区", "var_name": "Hǎidōng" },
+        {
+          "name": "HainanTibetan",
+          "nl_name": "海南藏族自治州",
+          "var_name": "HǎinánZàngzú"
+        },
+        {
+          "name": "HaixiMongolandTibetan",
+          "nl_name": "海西蒙古族藏族自治州",
+          "var_name": "HǎixīMěnggǔzúZàngzú"
+        },
+        {
+          "name": "HuangnanTibetan",
+          "nl_name": "黄南藏族自治州",
+          "var_name": "HuángnánZàngzú"
+        },
+        { "name": "Xining", "nl_name": "西宁市", "var_name": "Xīníng" }
+      ]
+    },
+    {
+      "name": "Shaanxi",
+      "nl_name": "陕西",
+      "cities": [
+        { "name": "Ankang", "nl_name": "安康市", "var_name": "Ānkāng" },
+        { "name": "Baoji", "nl_name": "宝鸡市", "var_name": "Bǎojī" },
+        { "name": "Hanzhong", "nl_name": "汉中市", "var_name": "Hànzhōng" },
+        { "name": "Shangluo", "nl_name": "商洛市", "var_name": "Shāngluò" },
+        { "name": "Tongchuan", "nl_name": "铜川市", "var_name": "Tóngchuān" },
+        { "name": "Weinan", "nl_name": "渭南市", "var_name": "Wèinán" },
+        { "name": "Xi'an", "nl_name": "西安市", "var_name": "Xī'ān" },
+        { "name": "Xianyang", "nl_name": "咸阳市", "var_name": "Xiányáng" },
+        { "name": "Yan'an", "nl_name": "延安市", "var_name": "Yán'ān" },
+        { "name": "Yulin", "nl_name": "榆林市", "var_name": "Yúlín" }
+      ]
+    },
+    {
+      "name": "Shandong",
+      "nl_name": "山东",
+      "cities": [
+        { "name": "Binzhou", "nl_name": "滨州", "var_name": "Bīnzhōu" },
+        { "name": "Dezhou", "nl_name": "德州市", "var_name": "Dézhōu" },
+        { "name": "Dongying", "nl_name": "东营市", "var_name": "Dōngyíng" },
+        { "name": "Heze", "nl_name": "菏泽市", "var_name": "Hézé" },
+        { "name": "Jinan", "nl_name": "济南市", "var_name": "Jǐnán" },
+        { "name": "Jining", "nl_name": "济宁市", "var_name": "Jǐníng" },
+        { "name": "Laiwu", "nl_name": "莱芜市", "var_name": "Láiwú" },
+        { "name": "Liaocheng", "nl_name": "聊城市", "var_name": "Liáochéng" },
+        { "name": "Linyi", "nl_name": "临沂市", "var_name": "Línyí" },
+        { "name": "Qingdao", "nl_name": "青岛市", "var_name": "Qīngdǎo" },
+        { "name": "Rizhao", "nl_name": "日照市", "var_name": "Rìzhào" },
+        { "name": "Tai'an", "nl_name": "泰安市", "var_name": "Tài'ān" },
+        { "name": "Weifang", "nl_name": "潍坊市", "var_name": "Wéifāng" },
+        { "name": "Weihai", "nl_name": "威海市", "var_name": "Wēihǎi" },
+        { "name": "Yantai", "nl_name": "烟台市", "var_name": "Yāntái" },
+        { "name": "Zaozhuang", "nl_name": "枣庄市", "var_name": "Zǎozhuāng" },
+        { "name": "Zibo", "nl_name": "淄博市", "var_name": "Zībó" }
+      ]
+    },
+    {
+      "name": "Shanghai",
+      "nl_name": "上海",
+      "cities": [
+        { "name": "Shanghai", "nl_name": "上海|上海", "var_name": "Shànghǎi" }
+      ]
+    },
+    {
+      "name": "Shanxi",
+      "nl_name": "山西",
+      "cities": [
+        { "name": "Changzhi", "nl_name": "长治市", "var_name": "Chángzhì" },
+        { "name": "Datong", "nl_name": "大同市", "var_name": "Dàtóng" },
+        { "name": "Jincheng", "nl_name": "晋城市", "var_name": "Jìnchéng" },
+        { "name": "Jinzhong", "nl_name": "晋中市", "var_name": "Jìnzhōng" },
+        { "name": "Linfen", "nl_name": "临汾市", "var_name": "Línfén" },
+        { "name": "Luliang", "nl_name": "吕梁市", "var_name": "Lǚlíang" },
+        { "name": "Shuozhou", "nl_name": "朔州市", "var_name": "Shuòzhōu" },
+        { "name": "Taiyuan", "nl_name": "太原市", "var_name": "Tàiyuán" },
+        { "name": "Xinzhou", "nl_name": "忻州市", "var_name": "Xīnzhōu" },
+        { "name": "Yangquan", "nl_name": "阳泉市", "var_name": "Yángquán" },
+        { "name": "Yuncheng", "nl_name": "运城县", "var_name": "Yùnchéng" }
+      ]
+    },
+    {
+      "name": "Sichuan",
+      "nl_name": "四川",
+      "cities": [
+        { "name": "Bazhong", "nl_name": "巴中市", "var_name": "Bāzhōng" },
+        { "name": "Chengdu", "nl_name": "成都市", "var_name": "Chéngdū" },
+        { "name": "Dazhou", "nl_name": "达州市", "var_name": "Dázhōu" },
+        { "name": "Deyang", "nl_name": "德阳市", "var_name": "Déyáng" },
+        {
+          "name": "GarzêTibetan",
+          "nl_name": "甘孜藏族自治州",
+          "var_name": "GānzīZàngzú"
+        },
+        { "name": "Guang'an", "nl_name": "广安市", "var_name": "Guǎng'ān" },
+        { "name": "Guangyuan", "nl_name": "广元市", "var_name": "Guǎngyuán" },
+        { "name": "Leshan", "nl_name": "乐山市", "var_name": "Lèshān" },
+        {
+          "name": "LiangshanYi",
+          "nl_name": "凉山彝族自治州",
+          "var_name": "LiángshānYízú"
+        },
+        { "name": "Luzhou", "nl_name": "泸州市", "var_name": "Lúzhōu" },
+        { "name": "Meishan", "nl_name": "眉山市", "var_name": "Méishān" },
+        { "name": "Mianyang", "nl_name": "绵阳市", "var_name": "Míanyáng" },
+        { "name": "Nanchong", "nl_name": "南充市", "var_name": "Nánchōng" },
+        { "name": "Neijiang", "nl_name": "内江市", "var_name": "Nèijiāng" },
+        { "name": "Neijiang]]", "nl_name": "内江市", "var_name": "Nèijiāng" },
+        {
+          "name": "NgawaTibetanandQiang",
+          "nl_name": "阿坝藏族羌族自治州",
+          "var_name": "ĀbàZàngzú|Qiāngzú"
+        },
+        { "name": "Panzhihua", "nl_name": "攀枝花市", "var_name": "Pānzhīhuā" },
+        { "name": "Suining", "nl_name": "遂宁市", "var_name": "Sùiníng" },
+        { "name": "Ya'an", "nl_name": "雅安市", "var_name": "Yǎ'ān" },
+        { "name": "Yibin", "nl_name": "宜宾市", "var_name": "Yíbīn" },
+        { "name": "Zigong", "nl_name": "自贡市", "var_name": "Zìgòng" },
+        { "name": "Ziyang", "nl_name": "资阳市", "var_name": "Zīyáng" }
+      ]
+    },
+    {
+      "name": "Tianjin",
+      "nl_name": "天津",
+      "cities": [
+        { "name": "Tianjin", "nl_name": "天津|天津", "var_name": "Tiānjīn" }
+      ]
+    },
+    {
+      "name": "XinjiangUygur",
+      "nl_name": "新疆维吾尔自治区",
+      "cities": [
+        { "name": "Aksu", "nl_name": "阿克苏地区", "var_name": "Ākèsū" },
+        { "name": "Altay", "nl_name": "阿勒泰地区", "var_name": "Ālètài" },
+        {
+          "name": "Bayin'gholinMongol",
+          "nl_name": "巴音郭愣蒙古自治州",
+          "var_name": "BāyīnguōlèngMěnggǔ"
+        },
+        {
+          "name": "BörtalaMongol",
+          "nl_name": "博尔塔拉蒙古自治州",
+          "var_name": "Bó'ěrtǎlāMěnggǔ"
+        },
+        {
+          "name": "ChangjiHui",
+          "nl_name": "昌吉回族自治州",
+          "var_name": "ChāngjíHuízú"
+        },
+        { "name": "Hami", "nl_name": "哈密地区", "var_name": "Hāmì" },
+        {
+          "name": "IliKazakh",
+          "nl_name": "伊犁哈萨克自治州",
+          "var_name": "YīlíHāsàkè"
+        },
+        { "name": "Karamay", "nl_name": "克拉玛依市", "var_name": "Kèlāmǎyī" },
+        { "name": "Kashgar", "nl_name": "喀什地区", "var_name": "Kāshí" },
+        { "name": "Khotan", "nl_name": "和田地区", "var_name": "Hétián" },
+        {
+          "name": "KizilsuKirghiz",
+          "nl_name": "克孜勒苏柯尔克孜自治州",
+          "var_name": "KèzīlèsūKē'ěrkèzī"
+        },
+        { "name": "Shihezi", "nl_name": "石河子市", "var_name": "Shíhézǐ" },
+        { "name": "Tacheng", "nl_name": "塔城地区", "var_name": "Tǎchéng" },
+        { "name": "Turfan", "nl_name": "吐鲁番地区", "var_name": "Tǔlǔfān" },
+        { "name": "Ürümqi", "nl_name": "乌鲁木齐市", "var_name": "Wūlǔmùqí" }
+      ]
+    },
+    {
+      "name": "Xizang",
+      "nl_name": "西藏自治区",
+      "cities": [
+        { "name": "Chamdo", "nl_name": "昌都地区", "var_name": "Chāngdū" },
+        { "name": "Lhasa", "nl_name": "拉萨市", "var_name": "Lāsà" },
+        { "name": "Nagchu", "nl_name": "那曲地区", "var_name": "Nàqū" },
+        { "name": "Ngari", "nl_name": "阿里地区", "var_name": "Ālǐ" },
+        { "name": "Nyingtri", "nl_name": "林芝地区", "var_name": "Línzhī" },
+        { "name": "Shannan", "nl_name": "山南地区", "var_name": "Shānnán" },
+        { "name": "Shigatse", "nl_name": "日喀则地区", "var_name": "Rìkāzé" }
+      ]
+    },
+    {
+      "name": "Yunnan",
+      "nl_name": "云南",
+      "cities": [
+        { "name": "Baoshan", "nl_name": "保山市", "var_name": "Bǎoshān" },
+        {
+          "name": "ChuxiongYi",
+          "nl_name": "楚雄彝族自治州",
+          "var_name": "ChǔxióngYízú"
+        },
+        {
+          "name": "DaliBai",
+          "nl_name": "大理白族自治州",
+          "var_name": "DàlǐBáizú"
+        },
+        {
+          "name": "DehongDaiandJingpo",
+          "nl_name": "德宏傣族景颇族自治州",
+          "var_name": "DéhóngDǎizú|Jǐngpōzú"
+        },
+        {
+          "name": "DêqênTibetan",
+          "nl_name": "迪庆藏族自治州",
+          "var_name": "DíqìngZàngzú"
+        },
+        {
+          "name": "HongheHaniandYi",
+          "nl_name": "红河哈尼族彝族自治州",
+          "var_name": "HónghéHānízú|Yízú"
+        },
+        { "name": "Kunming", "nl_name": "昆明市", "var_name": "Kūnmíng" },
+        { "name": "Lijiang", "nl_name": "丽江市", "var_name": "Lìjiāng" },
+        { "name": "Lincang", "nl_name": "临沧市", "var_name": "Líncāng" },
+        {
+          "name": "NujiangLisu",
+          "nl_name": "怒江傈僳族自治州",
+          "var_name": "NùjiāngLìsùzú"
+        },
+        { "name": "Pu'er", "nl_name": "普洱市", "var_name": "Pǔ'ěr" },
+        { "name": "Qujing", "nl_name": "曲靖市", "var_name": "Qǔjìng" },
+        {
+          "name": "WenshanZhuangandMiao",
+          "nl_name": "文山壮族苗族自治州",
+          "var_name": "WénshānZhuàngzú|Miáozú"
+        },
+        {
+          "name": "XishuangbannaDai",
+          "nl_name": "西双版纳傣族自治州",
+          "var_name": "Xīshuāngbǎnnà|Dǎizú"
+        },
+        { "name": "Yuxi", "nl_name": "玉溪市", "var_name": "Yùxī" },
+        { "name": "Zhaotong", "nl_name": "昭通市", "var_name": "Zhāotōng" }
+      ]
+    },
+    {
+      "name": "Zhejiang",
+      "nl_name": "浙江",
+      "cities": [
+        { "name": "Hangzhou", "nl_name": "杭州市", "var_name": "Hángzhōu" },
+        { "name": "Huzhou", "nl_name": "湖州市", "var_name": "Húzhōu" },
+        { "name": "Jiaxing", "nl_name": "嘉兴市", "var_name": "Jiāxīng" },
+        { "name": "Jinhua", "nl_name": "金华市", "var_name": "Jīnhuá" },
+        { "name": "Lishui", "nl_name": "丽水市", "var_name": "Líshuǐ" },
+        { "name": "Ningbo", "nl_name": "宁波市", "var_name": "Níngbō" },
+        { "name": "Quzhou", "nl_name": "衢州市", "var_name": "Qúzhōu" },
+        { "name": "Shaoxing", "nl_name": "绍兴市", "var_name": "Shàoxīng" },
+        { "name": "Taizhou", "nl_name": "台州市", "var_name": "Tāizhōu" },
+        { "name": "Wenzhou", "nl_name": "温州市", "var_name": "Wēnzhōu" },
+        { "name": "Zhoushan", "nl_name": "舟山市", "var_name": "Zhōushān" }
+      ]
+    }
+  ]
+}

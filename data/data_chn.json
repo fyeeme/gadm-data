@@ -1,0 +1,6626 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Anqing",
+      "VARNAME_2": "Ānqìng",
+      "NL_NAME_2": "安庆市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Bengbu",
+      "VARNAME_2": "Bèngbù",
+      "NL_NAME_2": "蚌埠市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Bozhou",
+      "VARNAME_2": "Bózhōu",
+      "NL_NAME_2": "亳州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Chaohu",
+      "VARNAME_2": "Cháohú",
+      "NL_NAME_2": "巢湖市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Chizhou",
+      "VARNAME_2": "Chízhōu",
+      "NL_NAME_2": "池州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Chuzhou",
+      "VARNAME_2": "Chúzhōu",
+      "NL_NAME_2": "滁州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Fuyang",
+      "VARNAME_2": "Fùyáng",
+      "NL_NAME_2": "阜阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Hefei",
+      "VARNAME_2": "Héféi",
+      "NL_NAME_2": "合肥市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Huaibei",
+      "VARNAME_2": "Huáiběi",
+      "NL_NAME_2": "淮北市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Huainan",
+      "VARNAME_2": "Huáinán",
+      "NL_NAME_2": "淮南市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Huangshan",
+      "VARNAME_2": "Huángshān",
+      "NL_NAME_2": "黄山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Lu'an",
+      "VARNAME_2": "Lù'ān",
+      "NL_NAME_2": "六安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Ma'anshan",
+      "VARNAME_2": "Mǎ'ānshān",
+      "NL_NAME_2": "马鞍山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Suzhou",
+      "VARNAME_2": "Sùzhōu",
+      "NL_NAME_2": "宿州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Tongling",
+      "VARNAME_2": "Tónglíng",
+      "NL_NAME_2": "铜陵市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Wuhu",
+      "VARNAME_2": "Wúhú",
+      "NL_NAME_2": "芜湖市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.1.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.1_1",
+      "NAME_1": "Anhui",
+      "NL_NAME_1": "安徽|安徽",
+      "NAME_2": "Xuancheng",
+      "VARNAME_2": "Xuānchéng",
+      "NL_NAME_2": "宣城市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.2.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.2_1",
+      "NAME_1": "Beijing",
+      "NL_NAME_1": "北京|北京",
+      "NAME_2": "Beijing",
+      "VARNAME_2": "Běijīng",
+      "NL_NAME_2": "北京|北京",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "Municipality",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.3.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.3_1",
+      "NAME_1": "Chongqing",
+      "NL_NAME_1": "重慶|重庆",
+      "NAME_2": "Chongqing",
+      "VARNAME_2": "Chóngqìng",
+      "NL_NAME_2": "重慶|重庆",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "Municipality",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Fuzhou",
+      "VARNAME_2": "Fúzhōu",
+      "NL_NAME_2": "福州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Longyan",
+      "VARNAME_2": "Lóngyán",
+      "NL_NAME_2": "龙岩市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Nanping",
+      "VARNAME_2": "Nánpíng",
+      "NL_NAME_2": "南平市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Ningde",
+      "VARNAME_2": "Níngdé",
+      "NL_NAME_2": "宁德市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Putian",
+      "VARNAME_2": "Pútián",
+      "NL_NAME_2": "莆田市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Quanzhou",
+      "VARNAME_2": "Quánzhōu",
+      "NL_NAME_2": "泉州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Sanming",
+      "VARNAME_2": "Sānmíng",
+      "NL_NAME_2": "三明市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Xiamen",
+      "VARNAME_2": "Xiàmén",
+      "NL_NAME_2": "厦门市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.4.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.4_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Zhangzhou",
+      "VARNAME_2": "Zhāngzhōu",
+      "NL_NAME_2": "漳州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Baiyin",
+      "VARNAME_2": "Báiyín",
+      "NL_NAME_2": "白银市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Dingxi",
+      "VARNAME_2": "Dìngxī",
+      "NL_NAME_2": "定西市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "GannanTibetan",
+      "VARNAME_2": "GānnánZàngzú",
+      "NL_NAME_2": "甘南藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Jiayuguan",
+      "VARNAME_2": "Jiāyùguān",
+      "NL_NAME_2": "嘉峪关市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Jinchang",
+      "VARNAME_2": "Jīnchāng",
+      "NL_NAME_2": "金昌市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Jiuquan",
+      "VARNAME_2": "Jiǔquán",
+      "NL_NAME_2": "酒泉市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Lanzhou",
+      "VARNAME_2": "Lánzhōu",
+      "NL_NAME_2": "兰州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "LinxiaHui",
+      "VARNAME_2": "LínxiàHuizù",
+      "NL_NAME_2": "临夏回族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Longnan",
+      "VARNAME_2": "Lǒngnán",
+      "NL_NAME_2": "陇南市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Pingliang",
+      "VARNAME_2": "Píngliáng",
+      "NL_NAME_2": "平凉市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Qingyang",
+      "VARNAME_2": "Qìngyáng",
+      "NL_NAME_2": "庆阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Tianshui",
+      "VARNAME_2": "Tiānshuǐ",
+      "NL_NAME_2": "天水市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Wuwei",
+      "VARNAME_2": "Wǔwēi",
+      "NL_NAME_2": "武威市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.5.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.5_1",
+      "NAME_1": "Gansu",
+      "NL_NAME_1": "甘肅|甘肃",
+      "NAME_2": "Zhangye",
+      "VARNAME_2": "Zhāngyè",
+      "NL_NAME_2": "张掖市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Chaozhou",
+      "VARNAME_2": "Cháozhōu",
+      "NL_NAME_2": "潮州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Dongguan",
+      "VARNAME_2": "Dōngguǎn",
+      "NL_NAME_2": "东莞市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Foshan",
+      "VARNAME_2": "Fóshān",
+      "NL_NAME_2": "佛山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Guangzhou",
+      "VARNAME_2": "Guǎngzhōu",
+      "NL_NAME_2": "广州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Heyuan",
+      "VARNAME_2": "Héyuán",
+      "NL_NAME_2": "河源市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Huizhou",
+      "VARNAME_2": "Huìzhōu",
+      "NL_NAME_2": "惠州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Jiangmen",
+      "VARNAME_2": "Jiāngmén",
+      "NL_NAME_2": "江门市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Jieyang",
+      "VARNAME_2": "Jiēyáng",
+      "NL_NAME_2": "揭阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Maoming",
+      "VARNAME_2": "Màomíng",
+      "NL_NAME_2": "茂名市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Meizhou",
+      "VARNAME_2": "Méizhōu",
+      "NL_NAME_2": "梅州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Qingyuan",
+      "VARNAME_2": "Qīngyuǎn",
+      "NL_NAME_2": "清远市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Shantou",
+      "VARNAME_2": "Shàntóu",
+      "NL_NAME_2": "汕头市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Shanwei",
+      "VARNAME_2": "Shànwěi",
+      "NL_NAME_2": "汕尾市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Shaoguan",
+      "VARNAME_2": "Sháoguān",
+      "NL_NAME_2": "韶关市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Shenzhen",
+      "VARNAME_2": "Shēnzhèn",
+      "NL_NAME_2": "深圳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Yangjiang",
+      "VARNAME_2": "Yángjiāng",
+      "NL_NAME_2": "阳江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Yunfu",
+      "VARNAME_2": "Yúnfú",
+      "NL_NAME_2": "云浮市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.18_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Zhanjiang",
+      "VARNAME_2": "Zhànjiāng",
+      "NL_NAME_2": "湛江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.19_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Zhaoqing",
+      "VARNAME_2": "Zhàoqìng",
+      "NL_NAME_2": "肇庆市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.20_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Zhongshan",
+      "VARNAME_2": "Zhōngshān",
+      "NL_NAME_2": "中山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.6.21_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.6_1",
+      "NAME_1": "Guangdong",
+      "NL_NAME_1": "廣東|广东",
+      "NAME_2": "Zhuhai",
+      "VARNAME_2": "Zhūhǎi",
+      "NL_NAME_2": "珠海市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Baise",
+      "VARNAME_2": "Bǎisè",
+      "NL_NAME_2": "百色市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Beihai",
+      "VARNAME_2": "Běihǎi",
+      "NL_NAME_2": "北海市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Chongzuo",
+      "VARNAME_2": "Chóngzuǒ",
+      "NL_NAME_2": "崇左市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Fangchenggang",
+      "VARNAME_2": "Fángchénggǎng",
+      "NL_NAME_2": "防城港市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Guigang",
+      "VARNAME_2": "Guìgǎng",
+      "NL_NAME_2": "贵港市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Guilin",
+      "VARNAME_2": "Guìlín",
+      "NL_NAME_2": "桂林市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Hechi",
+      "VARNAME_2": "Héchí",
+      "NL_NAME_2": "河池市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Hezhou",
+      "VARNAME_2": "Hèzhōu",
+      "NL_NAME_2": "贺州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Laibin",
+      "VARNAME_2": "Láibīn",
+      "NL_NAME_2": "来宾市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Liuzhou",
+      "VARNAME_2": "Liǔzhōu",
+      "NL_NAME_2": "柳州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Nanning",
+      "VARNAME_2": "Nánníng",
+      "NL_NAME_2": "南宁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Qinzhou",
+      "VARNAME_2": "Qīnzhōu",
+      "NL_NAME_2": "钦州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Wuzhou",
+      "VARNAME_2": "Wúzhōu",
+      "NL_NAME_2": "梧州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.7.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.7_1",
+      "NAME_1": "Guangxi",
+      "NL_NAME_1": "廣西壯族自治區|广西壮族自治区",
+      "NAME_2": "Yulin",
+      "VARNAME_2": "Yùlín",
+      "NL_NAME_2": "玉林市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Anshun",
+      "VARNAME_2": "Ānshùn",
+      "NL_NAME_2": "安顺市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Bijie",
+      "VARNAME_2": "Bìjié",
+      "NL_NAME_2": "毕节地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Guiyang",
+      "VARNAME_2": "Guìyáng",
+      "NL_NAME_2": "贵阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Liupanshui",
+      "VARNAME_2": "Liùpánshuǐ",
+      "NL_NAME_2": "六盘水市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "QiandongnanMiaoandDong",
+      "VARNAME_2": "QiándōngnánMiáozú|Dòngzú",
+      "NL_NAME_2": "黔东南苗族侗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "QiannanBuyeiandMiao",
+      "VARNAME_2": "QiánnánBùyīzú|Miáozú",
+      "NL_NAME_2": "黔南布依族苗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "QianxinanBuyeiandMiao",
+      "VARNAME_2": "QiánxīnánBùyīzú|Miáozú",
+      "NL_NAME_2": "黔西南布依族苗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Tongren",
+      "VARNAME_2": "Tóngrén",
+      "NL_NAME_2": "铜仁地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.8.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.8_1",
+      "NAME_1": "Guizhou",
+      "NL_NAME_1": "貴州|贵州",
+      "NAME_2": "Zunyi",
+      "VARNAME_2": "Zūnyì",
+      "NL_NAME_2": "遵义市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.9.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.9_1",
+      "NAME_1": "Hainan",
+      "NL_NAME_1": "海南",
+      "NAME_2": "Haikou",
+      "VARNAME_2": "Hǎikǒu",
+      "NL_NAME_2": "海口市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.9.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.9_1",
+      "NAME_1": "Hainan",
+      "NL_NAME_1": "海南",
+      "NAME_2": "Hainan",
+      "VARNAME_2": "Hǎinán",
+      "NL_NAME_2": "海南",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.9.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.9_1",
+      "NAME_1": "Hainan",
+      "NL_NAME_1": "海南",
+      "NAME_2": "Sanya",
+      "VARNAME_2": "Sānyà",
+      "NL_NAME_2": "三亚市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Baoding",
+      "VARNAME_2": "Bǎodìng",
+      "NL_NAME_2": "保定市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Cangzhou",
+      "VARNAME_2": "Cāngzhōu",
+      "NL_NAME_2": "沧州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Chengde",
+      "VARNAME_2": "Chéngdé",
+      "NL_NAME_2": "承德市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Handan",
+      "VARNAME_2": "Hándān",
+      "NL_NAME_2": "邯郸市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Hengshui",
+      "VARNAME_2": "Héngshuǐ",
+      "NL_NAME_2": "衡水市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Langfang",
+      "VARNAME_2": "Lángfáng",
+      "NL_NAME_2": "廊坊市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Qinhuangdao",
+      "VARNAME_2": "Qínhuángdǎo",
+      "NL_NAME_2": "秦皇岛市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Shijiazhuang",
+      "VARNAME_2": "Shíjiāzhuāng",
+      "NL_NAME_2": "石家庄市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Tangshan",
+      "VARNAME_2": "Tángshān",
+      "NL_NAME_2": "唐山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Xingtai",
+      "VARNAME_2": "Xíngtái",
+      "NL_NAME_2": "邢台市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.10.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.10_1",
+      "NAME_1": "Hebei",
+      "NL_NAME_1": "河北",
+      "NAME_2": "Zhangjiakou",
+      "VARNAME_2": "Zhāngjiākǒu",
+      "NL_NAME_2": "张家口市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Daqing",
+      "VARNAME_2": "Dàqìng",
+      "NL_NAME_2": "大庆市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Daxing'anling",
+      "VARNAME_2": "Dàxīng'ānlǐng",
+      "NL_NAME_2": "大兴安岭地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Harbin",
+      "VARNAME_2": "Hā'ěrbīn",
+      "NL_NAME_2": "哈尔滨市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Hegang",
+      "VARNAME_2": "Hègǎng",
+      "NL_NAME_2": "鹤岗市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Heihe",
+      "VARNAME_2": "Hēihé",
+      "NL_NAME_2": "黑河市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Jiamusi",
+      "VARNAME_2": "Jiāmùsī",
+      "NL_NAME_2": "佳木斯市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Jixi",
+      "VARNAME_2": "Jīxī",
+      "NL_NAME_2": "鸡西市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Mudanjiang",
+      "VARNAME_2": "Mǔdānjiāng",
+      "NL_NAME_2": "牡丹江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Qiqihar",
+      "VARNAME_2": "Qíqíhā'ěr",
+      "NL_NAME_2": "齐齐哈尔市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Qitaihe",
+      "VARNAME_2": "Qītáihé",
+      "NL_NAME_2": "七台河市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Shuangyashan",
+      "VARNAME_2": "Shuāngyāshān",
+      "NL_NAME_2": "双鸭山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Suihua",
+      "VARNAME_2": "Suíhuà",
+      "NL_NAME_2": "绥化市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.11.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.11_1",
+      "NAME_1": "Heilongjiang",
+      "NL_NAME_1": "黑龙江省|黑龍江省",
+      "NAME_2": "Yichun",
+      "VARNAME_2": "Yīchūn",
+      "NL_NAME_2": "伊春市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Anyang",
+      "VARNAME_2": "Ānyáng",
+      "NL_NAME_2": "安阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Hebi",
+      "VARNAME_2": "Hèbì",
+      "NL_NAME_2": "鹤壁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Jiaozuo",
+      "VARNAME_2": "Jiāozuò",
+      "NL_NAME_2": "焦作市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Jiyuanshi",
+      "VARNAME_2": "Jǐyuán",
+      "NL_NAME_2": "济源市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Kaifeng",
+      "VARNAME_2": "Kāifēng",
+      "NL_NAME_2": "开封市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Luohe",
+      "VARNAME_2": "Luòhé",
+      "NL_NAME_2": "漯河市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Luoyang",
+      "VARNAME_2": "Luòyáng",
+      "NL_NAME_2": "洛阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Nanyang",
+      "VARNAME_2": "Nányáng",
+      "NL_NAME_2": "南阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Pingdingshan",
+      "VARNAME_2": "Píngdǐngshān",
+      "NL_NAME_2": "平顶山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Puyang",
+      "VARNAME_2": "Púyáng",
+      "NL_NAME_2": "濮阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Sanmenxia",
+      "VARNAME_2": "Sānménxiá",
+      "NL_NAME_2": "三门峡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Shangqiu",
+      "VARNAME_2": "ShāngqiūXiàn",
+      "NL_NAME_2": "商丘市",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Xinxiang",
+      "VARNAME_2": "Xīnxiāng",
+      "NL_NAME_2": "新乡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Xinyang",
+      "VARNAME_2": "Xìnyáng",
+      "NL_NAME_2": "信阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Xuchang",
+      "VARNAME_2": "Xǔchāng",
+      "NL_NAME_2": "许昌市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Zhengzhou",
+      "VARNAME_2": "Zhèngzhōu",
+      "NL_NAME_2": "郑州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Zhoukou",
+      "VARNAME_2": "Zhōukǒu",
+      "NL_NAME_2": "周口市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.12.18_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.12_1",
+      "NAME_1": "Henan",
+      "NL_NAME_1": "河南",
+      "NAME_2": "Zhumadian",
+      "VARNAME_2": "Zhùmǎdiàn",
+      "NL_NAME_2": "驻马店市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CentralandWestern",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.CW"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Eastern",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.EA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Islands",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.IS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "KowloonCity",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.KC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "KwaiTsing",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.KI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "KwunTong",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.KU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "North",
+      "VARNAME_2": "<Null>",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "SaiKung",
+      "VARNAME_2": "<Null>",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.SK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "ShaTin",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "ShamShuiPo",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.SS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Southern",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.SO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "TaiPo",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.TP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "TsuenWan",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.TW"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "TuenMun",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.TM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "WanChai",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.WC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "WongTaiSin",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.WT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "YauTsimMong",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.YT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "HKG.18_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.HKG",
+      "NAME_1": "HongKong",
+      "NL_NAME_1": "NA",
+      "NAME_2": "YuenLong",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "HK.YL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "EnshiTujiaandMiao",
+      "VARNAME_2": "ĒnshīTǔjiāzú|Miáozú",
+      "NL_NAME_2": "恩施土家族苗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Ezhou",
+      "VARNAME_2": "Èzhōu",
+      "NL_NAME_2": "鄂州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Huanggang",
+      "VARNAME_2": "Huánggāng",
+      "NL_NAME_2": "黄冈市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Huangshi",
+      "VARNAME_2": "Huángshí",
+      "NL_NAME_2": "黄石市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Jingmen",
+      "VARNAME_2": "Jīngmén",
+      "NL_NAME_2": "荆门市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Jingzhou",
+      "VARNAME_2": "Jīngzhōu",
+      "NL_NAME_2": "荆州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Qianjiang",
+      "VARNAME_2": "Qiánjiāng",
+      "NL_NAME_2": "潜江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Shennongjia",
+      "VARNAME_2": "ShénnóngjiàLínqū",
+      "NL_NAME_2": "神农架林区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Shiyan",
+      "VARNAME_2": "Shíyàn",
+      "NL_NAME_2": "十堰市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "SuizhouShi",
+      "VARNAME_2": "Suízhōu",
+      "NL_NAME_2": "随州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Tianmen",
+      "VARNAME_2": "Tiānmén",
+      "NL_NAME_2": "天门市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Wuhan",
+      "VARNAME_2": "Wǔhàn",
+      "NL_NAME_2": "武汉市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Xiangfan",
+      "VARNAME_2": "Xiāngfán",
+      "NL_NAME_2": "襄樊市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Xianning",
+      "VARNAME_2": "Xiánníng",
+      "NL_NAME_2": "咸宁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Xiantao",
+      "VARNAME_2": "Xiāntáo",
+      "NL_NAME_2": "仙桃市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Xiaogan",
+      "VARNAME_2": "Xiàogǎn",
+      "NL_NAME_2": "孝感市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.13.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.13_1",
+      "NAME_1": "Hubei",
+      "NL_NAME_1": "湖北",
+      "NAME_2": "Yichang",
+      "VARNAME_2": "Yíchāng",
+      "NL_NAME_2": "宜昌市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Changde",
+      "VARNAME_2": "Chángdé",
+      "NL_NAME_2": "常德市|常德市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Changsha",
+      "VARNAME_2": "Chángshā",
+      "NL_NAME_2": "长沙市|長沙市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Chenzhou",
+      "VARNAME_2": "Chēnzhōu",
+      "NL_NAME_2": "郴州市|郴州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Hengyang",
+      "VARNAME_2": "Héngyáng",
+      "NL_NAME_2": "衡阳市|衡陽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Huaihua",
+      "VARNAME_2": "Huáihuà",
+      "NL_NAME_2": "怀化市|懷化市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Loudi",
+      "VARNAME_2": "Lóudǐ",
+      "NL_NAME_2": "娄底市|婁底市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Shaoyang",
+      "VARNAME_2": "Shàoyáng",
+      "NL_NAME_2": "邵阳市|邵陽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Xiangtan",
+      "VARNAME_2": "Xiāngtán",
+      "NL_NAME_2": "湘潭市|湘潭市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "XiangxiTujiaandMiao",
+      "VARNAME_2": "XiāngxīTǔjiāzú|Miáozú",
+      "NL_NAME_2": "湘西土家族苗族自治州|湘西土家族苗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Yiyang",
+      "VARNAME_2": "Yìyáng",
+      "NL_NAME_2": "益阳市|益陽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Yongzhou",
+      "VARNAME_2": "Yǒngzhōu",
+      "NL_NAME_2": "永州市|永州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Yueyang",
+      "VARNAME_2": "Yuèyáng",
+      "NL_NAME_2": "岳阳市|岳陽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Zhangjiajie",
+      "VARNAME_2": "Zhāngjiājiè",
+      "NL_NAME_2": "张家界市|張家界市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.14.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.14_1",
+      "NAME_1": "Hunan",
+      "NL_NAME_1": "湖南",
+      "NAME_2": "Zhuzhou",
+      "VARNAME_2": "Zhūzhōu",
+      "NL_NAME_2": "株洲市|株洲市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Changzhou",
+      "VARNAME_2": "Chángzhōu",
+      "NL_NAME_2": "常州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Huai'an",
+      "VARNAME_2": "Huái'ān",
+      "NL_NAME_2": "淮安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Lianyungang",
+      "VARNAME_2": "Liányúngǎng",
+      "NL_NAME_2": "连云港市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Nanjing",
+      "VARNAME_2": "Nánjīng",
+      "NL_NAME_2": "南京市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Nantong",
+      "VARNAME_2": "Nántōng",
+      "NL_NAME_2": "南通市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Suqian",
+      "VARNAME_2": "Sùqiān",
+      "NL_NAME_2": "宿迁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Suzhou",
+      "VARNAME_2": "Sūzhōu",
+      "NL_NAME_2": "苏州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Taizhou",
+      "VARNAME_2": "Tàizhōu",
+      "NL_NAME_2": "泰州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Wuxi",
+      "VARNAME_2": "Wúxī",
+      "NL_NAME_2": "无锡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Xuzhou",
+      "VARNAME_2": "Xúzhōu",
+      "NL_NAME_2": "徐州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Yancheng",
+      "VARNAME_2": "Yánchéng",
+      "NL_NAME_2": "盐城市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Yangzhou",
+      "VARNAME_2": "Yángzhōu",
+      "NL_NAME_2": "扬州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.15.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.15_1",
+      "NAME_1": "Jiangsu",
+      "NL_NAME_1": "江蘇|江苏",
+      "NAME_2": "Zhenjiang",
+      "VARNAME_2": "Zhènjiāng",
+      "NL_NAME_2": "镇江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Fuzhou",
+      "VARNAME_2": "Fǔzhōu",
+      "NL_NAME_2": "抚州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Ganzhou",
+      "VARNAME_2": "Gànzhōu",
+      "NL_NAME_2": "赣州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Ji'an",
+      "VARNAME_2": "Jí'ān",
+      "NL_NAME_2": "吉安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Jingdezhen",
+      "VARNAME_2": "Jǐngdézhèn",
+      "NL_NAME_2": "景德镇市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Jiujiang",
+      "VARNAME_2": "Jiǔjiāng",
+      "NL_NAME_2": "九江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Nanchang",
+      "VARNAME_2": "Nánchāng",
+      "NL_NAME_2": "南昌市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Pingxiang",
+      "VARNAME_2": "Píngxiāng",
+      "NL_NAME_2": "萍乡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Shangrao",
+      "VARNAME_2": "Shàngráo",
+      "NL_NAME_2": "上饶市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Xinyu",
+      "VARNAME_2": "Xīnyú",
+      "NL_NAME_2": "新余市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Yichun",
+      "VARNAME_2": "Yíchūn",
+      "NL_NAME_2": "宜春市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.16.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.16_1",
+      "NAME_1": "Jiangxi",
+      "NL_NAME_1": "江西",
+      "NAME_2": "Yingtan",
+      "VARNAME_2": "Yīngtán",
+      "NL_NAME_2": "鹰潭市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Baicheng",
+      "VARNAME_2": "Báichéng",
+      "NL_NAME_2": "白城市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Baishan",
+      "VARNAME_2": "Báishān",
+      "NL_NAME_2": "白山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Changchun",
+      "VARNAME_2": "Chángchūn",
+      "NL_NAME_2": "长春市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Jilin",
+      "VARNAME_2": "Jílín",
+      "NL_NAME_2": "吉林市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Liaoyuan",
+      "VARNAME_2": "Liáoyuán",
+      "NL_NAME_2": "辽源市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Siping",
+      "VARNAME_2": "Sìpíng",
+      "NL_NAME_2": "四平市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Songyuan",
+      "VARNAME_2": "Sōngyuán",
+      "NL_NAME_2": "松原市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "Tonghua",
+      "VARNAME_2": "Tōnghuà",
+      "NL_NAME_2": "通化市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.17.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.17_1",
+      "NAME_1": "Jilin",
+      "NL_NAME_1": "吉林",
+      "NAME_2": "YanbianKorean",
+      "VARNAME_2": "YánbiānCháoxiǎnzú",
+      "NL_NAME_2": "延边朝鲜族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Anshan",
+      "VARNAME_2": "Ānshān",
+      "NL_NAME_2": "鞍山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Benxi",
+      "VARNAME_2": "Běnxī",
+      "NL_NAME_2": "本溪市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Chaoyang",
+      "VARNAME_2": "Cháoyáng",
+      "NL_NAME_2": "朝阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Dalian",
+      "VARNAME_2": "Dàlián",
+      "NL_NAME_2": "大连市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Dandong",
+      "VARNAME_2": "Dāndōng",
+      "NL_NAME_2": "丹东市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Fushun",
+      "VARNAME_2": "Fǔshùn",
+      "NL_NAME_2": "抚顺市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Fuxin",
+      "VARNAME_2": "Fùxīn",
+      "NL_NAME_2": "阜新市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Huludao",
+      "VARNAME_2": "Húludǎo",
+      "NL_NAME_2": "葫芦岛市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Jinzhou",
+      "VARNAME_2": "Jǐnzhōu",
+      "NL_NAME_2": "锦州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Liaoyang",
+      "VARNAME_2": "Liáoyáng",
+      "NL_NAME_2": "辽阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Panjin",
+      "VARNAME_2": "Pánjǐn",
+      "NL_NAME_2": "盘锦市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Shenyang",
+      "VARNAME_2": "Shěnyáng",
+      "NL_NAME_2": "沈阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.18.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.18_1",
+      "NAME_1": "Liaoning",
+      "NL_NAME_1": "遼寧|辽宁",
+      "NAME_2": "Tieling",
+      "VARNAME_2": "Tiělǐng",
+      "NL_NAME_2": "铁岭市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "MAC.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.MAC",
+      "NAME_1": "Macau",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Ilhas",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Concelho|Distrito",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "MO.IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "MAC.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.MAC",
+      "NAME_1": "Macau",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Macau",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Concelho|Distrito",
+      "ENGTYPE_2": "District",
+      "CC_2": "NA",
+      "HASC_2": "MO.MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Alxa",
+      "VARNAME_2": "Ālāshàn",
+      "NL_NAME_2": "阿拉善盟",
+      "TYPE_2": "Méng",
+      "ENGTYPE_2": "League",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Baotou",
+      "VARNAME_2": "Bāotóu",
+      "NL_NAME_2": "包头市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Baynnur",
+      "VARNAME_2": "Bāyànnào'ěr",
+      "NL_NAME_2": "巴彦淖尔市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Chifeng",
+      "VARNAME_2": "Chìfēng",
+      "NL_NAME_2": "赤峰市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Hohhot",
+      "VARNAME_2": "Hūhéhàotè",
+      "NL_NAME_2": "呼和浩特市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Hulunbuir",
+      "VARNAME_2": "Hūlúnbèi'ěr",
+      "NL_NAME_2": "呼伦贝尔市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Ordos",
+      "VARNAME_2": "È'ěrduōsī",
+      "NL_NAME_2": "鄂尔多斯市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Tongliao",
+      "VARNAME_2": "Tōngliáo",
+      "NL_NAME_2": "通辽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "UlaanChab",
+      "VARNAME_2": "Wūlánchábù",
+      "NL_NAME_2": "乌兰察布市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Wuhai",
+      "VARNAME_2": "Wūhǎi",
+      "NL_NAME_2": "乌海市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "XilinGol",
+      "VARNAME_2": "Xīlínguōlè",
+      "NL_NAME_2": "锡林郭勒盟",
+      "TYPE_2": "Méng",
+      "ENGTYPE_2": "League",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.19.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.19_1",
+      "NAME_1": "NeiMongol",
+      "NL_NAME_1": "內蒙古自治區|内蒙古自治区",
+      "NAME_2": "Xing'an",
+      "VARNAME_2": "Xīng'ān",
+      "NL_NAME_2": "兴安盟",
+      "TYPE_2": "Méng",
+      "ENGTYPE_2": "League",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.20.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.20_1",
+      "NAME_1": "NingxiaHui",
+      "NL_NAME_1": "寧夏回族自治區|宁夏回族自治区",
+      "NAME_2": "Guyuan",
+      "VARNAME_2": "Gùyuán",
+      "NL_NAME_2": "固原市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.20.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.20_1",
+      "NAME_1": "NingxiaHui",
+      "NL_NAME_1": "寧夏回族自治區|宁夏回族自治区",
+      "NAME_2": "Shizuishan",
+      "VARNAME_2": "Shízuǐshān",
+      "NL_NAME_2": "石嘴山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.20.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.20_1",
+      "NAME_1": "NingxiaHui",
+      "NL_NAME_1": "寧夏回族自治區|宁夏回族自治区",
+      "NAME_2": "Wuzhong",
+      "VARNAME_2": "Wúzhōng",
+      "NL_NAME_2": "吴忠市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.20.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.20_1",
+      "NAME_1": "NingxiaHui",
+      "NL_NAME_1": "寧夏回族自治區|宁夏回族自治区",
+      "NAME_2": "Yinchuan",
+      "VARNAME_2": "Yínchuān",
+      "NL_NAME_2": "银川市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.20.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.20_1",
+      "NAME_1": "NingxiaHui",
+      "NL_NAME_1": "寧夏回族自治區|宁夏回族自治区",
+      "NAME_2": "Zhongwei",
+      "VARNAME_2": "Zhōngwèi",
+      "NL_NAME_2": "中卫市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "GologTibetan",
+      "VARNAME_2": "GuǒluòZàngzú",
+      "NL_NAME_2": "果洛藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "GyêguTibetan",
+      "VARNAME_2": "YùshùZàngzú",
+      "NL_NAME_2": "玉树藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "HaibeiTibetan",
+      "VARNAME_2": "HǎiběiZàngzú",
+      "NL_NAME_2": "海北藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "Haidong",
+      "VARNAME_2": "Hǎidōng",
+      "NL_NAME_2": "海东地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "HainanTibetan",
+      "VARNAME_2": "HǎinánZàngzú",
+      "NL_NAME_2": "海南藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "HaixiMongolandTibetan",
+      "VARNAME_2": "HǎixīMěnggǔzúZàngzú",
+      "NL_NAME_2": "海西蒙古族藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "HuangnanTibetan",
+      "VARNAME_2": "HuángnánZàngzú",
+      "NL_NAME_2": "黄南藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.21.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.21_1",
+      "NAME_1": "Qinghai",
+      "NL_NAME_1": "青海",
+      "NAME_2": "Xining",
+      "VARNAME_2": "Xīníng",
+      "NL_NAME_2": "西宁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Ankang",
+      "VARNAME_2": "Ānkāng",
+      "NL_NAME_2": "安康市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Baoji",
+      "VARNAME_2": "Bǎojī",
+      "NL_NAME_2": "宝鸡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Hanzhong",
+      "VARNAME_2": "Hànzhōng",
+      "NL_NAME_2": "汉中市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Shangluo",
+      "VARNAME_2": "Shāngluò",
+      "NL_NAME_2": "商洛市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Tongchuan",
+      "VARNAME_2": "Tóngchuān",
+      "NL_NAME_2": "铜川市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Weinan",
+      "VARNAME_2": "Wèinán",
+      "NL_NAME_2": "渭南市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Xi'an",
+      "VARNAME_2": "Xī'ān",
+      "NL_NAME_2": "西安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Xianyang",
+      "VARNAME_2": "Xiányáng",
+      "NL_NAME_2": "咸阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Yan'an",
+      "VARNAME_2": "Yán'ān",
+      "NL_NAME_2": "延安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.22.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.22_1",
+      "NAME_1": "Shaanxi",
+      "NL_NAME_1": "陝西|陕西",
+      "NAME_2": "Yulin",
+      "VARNAME_2": "Yúlín",
+      "NL_NAME_2": "榆林市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Binzhou",
+      "VARNAME_2": "Bīnzhōu",
+      "NL_NAME_2": "滨州",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Dezhou",
+      "VARNAME_2": "Dézhōu",
+      "NL_NAME_2": "德州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Dongying",
+      "VARNAME_2": "Dōngyíng",
+      "NL_NAME_2": "东营市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Heze",
+      "VARNAME_2": "Hézé",
+      "NL_NAME_2": "菏泽市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Jinan",
+      "VARNAME_2": "Jǐnán",
+      "NL_NAME_2": "济南市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Jining",
+      "VARNAME_2": "Jǐníng",
+      "NL_NAME_2": "济宁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Laiwu",
+      "VARNAME_2": "Láiwú",
+      "NL_NAME_2": "莱芜市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Liaocheng",
+      "VARNAME_2": "Liáochéng",
+      "NL_NAME_2": "聊城市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Linyi",
+      "VARNAME_2": "Línyí",
+      "NL_NAME_2": "临沂市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Qingdao",
+      "VARNAME_2": "Qīngdǎo",
+      "NL_NAME_2": "青岛市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Rizhao",
+      "VARNAME_2": "Rìzhào",
+      "NL_NAME_2": "日照市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Tai'an",
+      "VARNAME_2": "Tài'ān",
+      "NL_NAME_2": "泰安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Weifang",
+      "VARNAME_2": "Wéifāng",
+      "NL_NAME_2": "潍坊市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Weihai",
+      "VARNAME_2": "Wēihǎi",
+      "NL_NAME_2": "威海市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Yantai",
+      "VARNAME_2": "Yāntái",
+      "NL_NAME_2": "烟台市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Zaozhuang",
+      "VARNAME_2": "Zǎozhuāng",
+      "NL_NAME_2": "枣庄市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.23.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.23_1",
+      "NAME_1": "Shandong",
+      "NL_NAME_1": "山東|山东",
+      "NAME_2": "Zibo",
+      "VARNAME_2": "Zībó",
+      "NL_NAME_2": "淄博市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.24.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.24_1",
+      "NAME_1": "Shanghai",
+      "NL_NAME_1": "上海|上海",
+      "NAME_2": "Shanghai",
+      "VARNAME_2": "Shànghǎi",
+      "NL_NAME_2": "上海|上海",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "Municipality",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Changzhi",
+      "VARNAME_2": "Chángzhì",
+      "NL_NAME_2": "长治市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Datong",
+      "VARNAME_2": "Dàtóng",
+      "NL_NAME_2": "大同市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Jincheng",
+      "VARNAME_2": "Jìnchéng",
+      "NL_NAME_2": "晋城市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Jinzhong",
+      "VARNAME_2": "Jìnzhōng",
+      "NL_NAME_2": "晋中市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Linfen",
+      "VARNAME_2": "Línfén",
+      "NL_NAME_2": "临汾市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Luliang",
+      "VARNAME_2": "Lǚlíang",
+      "NL_NAME_2": "吕梁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Shuozhou",
+      "VARNAME_2": "Shuòzhōu",
+      "NL_NAME_2": "朔州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Taiyuan",
+      "VARNAME_2": "Tàiyuán",
+      "NL_NAME_2": "太原市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Xinzhou",
+      "VARNAME_2": "Xīnzhōu",
+      "NL_NAME_2": "忻州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Yangquan",
+      "VARNAME_2": "Yángquán",
+      "NL_NAME_2": "阳泉市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.25.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.25_1",
+      "NAME_1": "Shanxi",
+      "NL_NAME_1": "山西",
+      "NAME_2": "Yuncheng",
+      "VARNAME_2": "Yùnchéng",
+      "NL_NAME_2": "运城县",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Bazhong",
+      "VARNAME_2": "Bāzhōng",
+      "NL_NAME_2": "巴中市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Chengdu",
+      "VARNAME_2": "Chéngdū",
+      "NL_NAME_2": "成都市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Dazhou",
+      "VARNAME_2": "Dázhōu",
+      "NL_NAME_2": "达州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Deyang",
+      "VARNAME_2": "Déyáng",
+      "NL_NAME_2": "德阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "GarzêTibetan",
+      "VARNAME_2": "GānzīZàngzú",
+      "NL_NAME_2": "甘孜藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Guang'an",
+      "VARNAME_2": "Guǎng'ān",
+      "NL_NAME_2": "广安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Guangyuan",
+      "VARNAME_2": "Guǎngyuán",
+      "NL_NAME_2": "广元市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Leshan",
+      "VARNAME_2": "Lèshān",
+      "NL_NAME_2": "乐山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "LiangshanYi",
+      "VARNAME_2": "LiángshānYízú",
+      "NL_NAME_2": "凉山彝族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Luzhou",
+      "VARNAME_2": "Lúzhōu",
+      "NL_NAME_2": "泸州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Meishan",
+      "VARNAME_2": "Méishān",
+      "NL_NAME_2": "眉山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Mianyang",
+      "VARNAME_2": "Míanyáng",
+      "NL_NAME_2": "绵阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Nanchong",
+      "VARNAME_2": "Nánchōng",
+      "NL_NAME_2": "南充市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Neijiang",
+      "VARNAME_2": "Nèijiāng",
+      "NL_NAME_2": "内江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Neijiang]]",
+      "VARNAME_2": "Nèijiāng",
+      "NL_NAME_2": "内江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "NgawaTibetanandQiang",
+      "VARNAME_2": "ĀbàZàngzú|Qiāngzú",
+      "NL_NAME_2": "阿坝藏族羌族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.17_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Panzhihua",
+      "VARNAME_2": "Pānzhīhuā",
+      "NL_NAME_2": "攀枝花市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.18_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Suining",
+      "VARNAME_2": "Sùiníng",
+      "NL_NAME_2": "遂宁市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.19_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Ya'an",
+      "VARNAME_2": "Yǎ'ān",
+      "NL_NAME_2": "雅安市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.20_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Yibin",
+      "VARNAME_2": "Yíbīn",
+      "NL_NAME_2": "宜宾市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.21_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Zigong",
+      "VARNAME_2": "Zìgòng",
+      "NL_NAME_2": "自贡市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.26.22_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.26_1",
+      "NAME_1": "Sichuan",
+      "NL_NAME_1": "四川",
+      "NAME_2": "Ziyang",
+      "VARNAME_2": "Zīyáng",
+      "NL_NAME_2": "资阳市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.27.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.27_1",
+      "NAME_1": "Tianjin",
+      "NL_NAME_1": "天津|天津",
+      "NAME_2": "Tianjin",
+      "VARNAME_2": "Tiānjīn",
+      "NL_NAME_2": "天津|天津",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "Municipality",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Aksu",
+      "VARNAME_2": "Ākèsū",
+      "NL_NAME_2": "阿克苏地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Altay",
+      "VARNAME_2": "Ālètài",
+      "NL_NAME_2": "阿勒泰地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Bayin'gholinMongol",
+      "VARNAME_2": "BāyīnguōlèngMěnggǔ",
+      "NL_NAME_2": "巴音郭愣蒙古自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "BörtalaMongol",
+      "VARNAME_2": "Bó'ěrtǎlāMěnggǔ",
+      "NL_NAME_2": "博尔塔拉蒙古自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "ChangjiHui",
+      "VARNAME_2": "ChāngjíHuízú",
+      "NL_NAME_2": "昌吉回族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Hami",
+      "VARNAME_2": "Hāmì",
+      "NL_NAME_2": "哈密地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "IliKazakh",
+      "VARNAME_2": "YīlíHāsàkè",
+      "NL_NAME_2": "伊犁哈萨克自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Karamay",
+      "VARNAME_2": "Kèlāmǎyī",
+      "NL_NAME_2": "克拉玛依市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Kashgar",
+      "VARNAME_2": "Kāshí",
+      "NL_NAME_2": "喀什地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "Z02.28.9_1",
+      "GID_0": "Z02",
+      "COUNTRY": "China",
+      "GID_1": "Z02.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Kashgar",
+      "VARNAME_2": "Kāshí",
+      "NL_NAME_2": "喀什地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Khotan",
+      "VARNAME_2": "Hétián",
+      "NL_NAME_2": "和田地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "Z03.28.10_1",
+      "GID_0": "Z03",
+      "COUNTRY": "China",
+      "GID_1": "Z03.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Khotan",
+      "VARNAME_2": "Hétián",
+      "NL_NAME_2": "和田地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "KizilsuKirghiz",
+      "VARNAME_2": "KèzīlèsūKē'ěrkèzī",
+      "NL_NAME_2": "克孜勒苏柯尔克孜自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Shihezi",
+      "VARNAME_2": "Shíhézǐ",
+      "NL_NAME_2": "石河子市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Tacheng",
+      "VARNAME_2": "Tǎchéng",
+      "NL_NAME_2": "塔城地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Turfan",
+      "VARNAME_2": "Tǔlǔfān",
+      "NL_NAME_2": "吐鲁番地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.28.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.28_1",
+      "NAME_1": "XinjiangUygur",
+      "NL_NAME_1": "新疆維吾爾自治區|新疆维吾尔自治区",
+      "NAME_2": "Ürümqi",
+      "VARNAME_2": "Wūlǔmùqí",
+      "NL_NAME_2": "乌鲁木齐市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Chamdo",
+      "VARNAME_2": "Chāngdū",
+      "NL_NAME_2": "昌都地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Lhasa",
+      "VARNAME_2": "Lāsà",
+      "NL_NAME_2": "拉萨市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Nagchu",
+      "VARNAME_2": "Nàqū",
+      "NL_NAME_2": "那曲地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Ngari",
+      "VARNAME_2": "Ālǐ",
+      "NL_NAME_2": "阿里地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "Z03.29.4_1",
+      "GID_0": "Z03",
+      "COUNTRY": "China",
+      "GID_1": "Z03.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Ngari",
+      "VARNAME_2": "Ālǐ",
+      "NL_NAME_2": "阿里地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "Z08.29.4_1",
+      "GID_0": "Z08",
+      "COUNTRY": "China",
+      "GID_1": "Z08.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Ngari",
+      "VARNAME_2": "Ālǐ",
+      "NL_NAME_2": "阿里地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Nyingtri",
+      "VARNAME_2": "Línzhī",
+      "NL_NAME_2": "林芝地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Shannan",
+      "VARNAME_2": "Shānnán",
+      "NL_NAME_2": "山南地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.29.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.29_1",
+      "NAME_1": "Xizang",
+      "NL_NAME_1": "西藏自治區|西藏自治区",
+      "NAME_2": "Shigatse",
+      "VARNAME_2": "Rìkāzé",
+      "NL_NAME_2": "日喀则地区",
+      "TYPE_2": "Dìqu",
+      "ENGTYPE_2": "Prefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Baoshan",
+      "VARNAME_2": "Bǎoshān",
+      "NL_NAME_2": "保山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "ChuxiongYi",
+      "VARNAME_2": "ChǔxióngYízú",
+      "NL_NAME_2": "楚雄彝族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "DaliBai",
+      "VARNAME_2": "DàlǐBáizú",
+      "NL_NAME_2": "大理白族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "DehongDaiandJingpo",
+      "VARNAME_2": "DéhóngDǎizú|Jǐngpōzú",
+      "NL_NAME_2": "德宏傣族景颇族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "DêqênTibetan",
+      "VARNAME_2": "DíqìngZàngzú",
+      "NL_NAME_2": "迪庆藏族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "HongheHaniandYi",
+      "VARNAME_2": "HónghéHānízú|Yízú",
+      "NL_NAME_2": "红河哈尼族彝族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Kunming",
+      "VARNAME_2": "Kūnmíng",
+      "NL_NAME_2": "昆明市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Lijiang",
+      "VARNAME_2": "Lìjiāng",
+      "NL_NAME_2": "丽江市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Lincang",
+      "VARNAME_2": "Líncāng",
+      "NL_NAME_2": "临沧市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "NujiangLisu",
+      "VARNAME_2": "NùjiāngLìsùzú",
+      "NL_NAME_2": "怒江傈僳族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Pu'er",
+      "VARNAME_2": "Pǔ'ěr",
+      "NL_NAME_2": "普洱市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.12_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Qujing",
+      "VARNAME_2": "Qǔjìng",
+      "NL_NAME_2": "曲靖市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.13_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "WenshanZhuangandMiao",
+      "VARNAME_2": "WénshānZhuàngzú|Miáozú",
+      "NL_NAME_2": "文山壮族苗族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.14_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "XishuangbannaDai",
+      "VARNAME_2": "Xīshuāngbǎnnà|Dǎizú",
+      "NL_NAME_2": "西双版纳傣族自治州",
+      "TYPE_2": "Zìzhìzhou",
+      "ENGTYPE_2": "AutonomousPrefecture",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.15_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Yuxi",
+      "VARNAME_2": "Yùxī",
+      "NL_NAME_2": "玉溪市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.30.16_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.30_1",
+      "NAME_1": "Yunnan",
+      "NL_NAME_1": "雲南|云南",
+      "NAME_2": "Zhaotong",
+      "VARNAME_2": "Zhāotōng",
+      "NL_NAME_2": "昭通市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.1_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Hangzhou",
+      "VARNAME_2": "Hángzhōu",
+      "NL_NAME_2": "杭州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.2_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Huzhou",
+      "VARNAME_2": "Húzhōu",
+      "NL_NAME_2": "湖州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.3_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Jiaxing",
+      "VARNAME_2": "Jiāxīng",
+      "NL_NAME_2": "嘉兴市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.4_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Jinhua",
+      "VARNAME_2": "Jīnhuá",
+      "NL_NAME_2": "金华市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.5_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Lishui",
+      "VARNAME_2": "Líshuǐ",
+      "NL_NAME_2": "丽水市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.6_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Ningbo",
+      "VARNAME_2": "Níngbō",
+      "NL_NAME_2": "宁波市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.7_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Quzhou",
+      "VARNAME_2": "Qúzhōu",
+      "NL_NAME_2": "衢州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.8_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Shaoxing",
+      "VARNAME_2": "Shàoxīng",
+      "NL_NAME_2": "绍兴市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.9_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Taizhou",
+      "VARNAME_2": "Tāizhōu",
+      "NL_NAME_2": "台州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.10_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Wenzhou",
+      "VARNAME_2": "Wēnzhōu",
+      "NL_NAME_2": "温州市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CHN.31.11_1",
+      "GID_0": "CHN",
+      "COUNTRY": "China",
+      "GID_1": "CHN.31_1",
+      "NAME_1": "Zhejiang",
+      "NL_NAME_1": "浙江",
+      "NAME_2": "Zhoushan",
+      "VARNAME_2": "Zhōushān",
+      "NL_NAME_2": "舟山市",
+      "TYPE_2": "Dìjíshì",
+      "ENGTYPE_2": "PrefectureCity",
+      "CC_2": "NA",
+      "HASC_2": "NA"
+    }
+  }
+]

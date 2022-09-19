@@ -1,0 +1,398 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.1.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.1_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Kinmen",
+      "VARNAME_2": "JīnménXiàn",
+      "NL_NAME_2": "金門縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.FK.KM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.1.2_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.1_1",
+      "NAME_1": "Fujian",
+      "NL_NAME_1": "福建",
+      "NAME_2": "Lienkiang",
+      "VARNAME_2": "MǎzǔLièdǎo|MatsuIslands",
+      "NL_NAME_2": "馬祖列島",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.FK.LK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.2.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.2_1",
+      "NAME_1": "Kaohsiung",
+      "NL_NAME_1": "高雄",
+      "NAME_2": "Kaohsiung",
+      "VARNAME_2": "GāoxióngShì",
+      "NL_NAME_2": "高雄市",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.KH.KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.3.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.3_1",
+      "NAME_1": "NewTaipei",
+      "NL_NAME_1": "新北",
+      "NAME_2": "NewTaipei",
+      "VARNAME_2": "XīnběiShì",
+      "NL_NAME_2": "新北市",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.NT.TP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.4.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.4_1",
+      "NAME_1": "Taichung",
+      "NL_NAME_1": "台中",
+      "NAME_2": "Taichung",
+      "VARNAME_2": "TaichungCity",
+      "NL_NAME_2": "台中",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.TG.TU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.5.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.5_1",
+      "NAME_1": "Tainan",
+      "NL_NAME_1": "台南",
+      "NAME_2": "Tainan",
+      "VARNAME_2": "TainanCity",
+      "NL_NAME_2": "台南",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.TN.TI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.6.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.6_1",
+      "NAME_1": "Taipei",
+      "NL_NAME_1": "台北",
+      "NAME_2": "Taipei",
+      "VARNAME_2": "TáiběiShì",
+      "NL_NAME_2": "台北市",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.TP.TC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.1_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Changhua",
+      "VARNAME_2": "ZhānghuàXiàn",
+      "NL_NAME_2": "彰化縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.CG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.2_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "ChiayiCity",
+      "VARNAME_2": "JiāyìShì",
+      "NL_NAME_2": "嘉義市",
+      "TYPE_2": "Shì",
+      "ENGTYPE_2": "ProvincialCity",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.CS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.3_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "ChiayiCounty",
+      "VARNAME_2": "JiāyìXiàn",
+      "NL_NAME_2": "嘉義縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.CH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.4_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "HsinchuCity",
+      "VARNAME_2": "XīnzhúShì",
+      "NL_NAME_2": "新竹市",
+      "TYPE_2": "Shì",
+      "ENGTYPE_2": "ProvincialCity",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.5_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "HsinchuCounty",
+      "VARNAME_2": "XīnzhúXiàn",
+      "NL_NAME_2": "新竹縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.6_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Hualien",
+      "VARNAME_2": "HuāliánXiàn",
+      "NL_NAME_2": "花蓮縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.HL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.7_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Keelung",
+      "VARNAME_2": "JīlóngShì|Jilong|Chilung",
+      "NL_NAME_2": "基隆市",
+      "TYPE_2": "Shì",
+      "ENGTYPE_2": "ProvincialCity",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.CL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.8_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Miaoli",
+      "VARNAME_2": "MiáolìXiàn",
+      "NL_NAME_2": "苗栗縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.ML"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.9_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Nantou",
+      "VARNAME_2": "NántóuXiàn",
+      "NL_NAME_2": "南投縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.10_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Penghu",
+      "VARNAME_2": "PēnghúXiàn",
+      "NL_NAME_2": "澎湖縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.PH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.11_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Pingtung",
+      "VARNAME_2": "PíngdōngXiàn",
+      "NL_NAME_2": "屏東縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.PT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.12_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Taitung",
+      "VARNAME_2": "TáidōngXiàn",
+      "NL_NAME_2": "台東縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.TT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.13_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Taoyuan",
+      "VARNAME_2": "TáoyuánShì",
+      "NL_NAME_2": "桃園市",
+      "TYPE_2": "Zhíxiáshì",
+      "ENGTYPE_2": "SpecialMunicipality",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.TY"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.14_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Yilan",
+      "VARNAME_2": "YílánXiàn",
+      "NL_NAME_2": "宜蘭縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "TWN.7.15_1",
+      "GID_0": "TWN",
+      "COUNTRY": "Taiwan",
+      "GID_1": "TWN.7_1",
+      "NAME_1": "Taiwan",
+      "NL_NAME_1": "台灣",
+      "NAME_2": "Yulin",
+      "VARNAME_2": "YúnlínXiàn",
+      "NL_NAME_2": "雲林縣",
+      "TYPE_2": "Xiàn",
+      "ENGTYPE_2": "County",
+      "CC_2": "NA",
+      "HASC_2": "TW.TA.YL"
+    }
+  }
+]

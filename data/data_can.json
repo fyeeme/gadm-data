@@ -1,0 +1,3836 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Alberni-Clayoquot",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "23",
+      "HASC_2": "CA.BC.AC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Bulkley-Nechako",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "51",
+      "HASC_2": "CA.BC.BN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Capital",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "17",
+      "HASC_2": "CA.BC.CP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.4_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Cariboo",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "41",
+      "HASC_2": "CA.BC.CR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.5_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CentralCoast",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "45",
+      "HASC_2": "CA.BC.CC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.6_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CentralKootenay",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "03",
+      "HASC_2": "CA.BC.CK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.7_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CentralOkanagan",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "35",
+      "HASC_2": "CA.BC.CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.8_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Columbia-Shuswap",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "39",
+      "HASC_2": "CA.BC.CS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.9_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Comox-Strathcona",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "25",
+      "HASC_2": "CA.BC.CX"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.10_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CowichanValley",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "19",
+      "HASC_2": "CA.BC.CV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.11_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "EastKootenay",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "01",
+      "HASC_2": "CA.BC.EK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.12_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Fraser-FortGeorge",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "53",
+      "HASC_2": "CA.BC.FF"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.13_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "FraserValley",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "09",
+      "HASC_2": "CA.BC.FV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.14_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "GreaterVancouver",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "15",
+      "HASC_2": "CA.BC.GV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.15_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kitimat-Stikine",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "49",
+      "HASC_2": "CA.BC.KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.16_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "KootenayBoundary",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "05",
+      "HASC_2": "CA.BC.KB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.17_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "MountWaddington",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "43",
+      "HASC_2": "CA.BC.MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.18_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Nanaimo",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "21",
+      "HASC_2": "CA.BC.NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.19_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "NorthOkanagan",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "37",
+      "HASC_2": "CA.BC.NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.20_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "NorthernRockies",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "59",
+      "HASC_2": "CA.BC.NR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.21_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Okanagan-Similkameen",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "07",
+      "HASC_2": "CA.BC.OS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.22_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "PeaceRiver",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "55",
+      "HASC_2": "CA.BC.PC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.23_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "PowellRiver",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "27",
+      "HASC_2": "CA.BC.PW"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.24_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Skeena-QueenCharlotte",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "47",
+      "HASC_2": "CA.BC.SQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.25_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Squamish-Lillooet",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "31",
+      "HASC_2": "CA.BC.SL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.26_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Stikine",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "57",
+      "HASC_2": "CA.BC.ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.27_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "SunshineCoast",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "29",
+      "HASC_2": "CA.BC.SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.2.28_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.2_1",
+      "NAME_1": "BritishColumbia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Thompson-Nicola",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalDistrict",
+      "ENGTYPE_2": "RegionalDistrict",
+      "CC_2": "33",
+      "HASC_2": "CA.BC.TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Albert",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "06",
+      "HASC_2": "CA.NB.AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Carleton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "11",
+      "HASC_2": "CA.NB.CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Charlotte",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "02",
+      "HASC_2": "CA.NB.CH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.4_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Gloucester",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "15",
+      "HASC_2": "CA.NB.GL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.5_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kent",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "08",
+      "HASC_2": "CA.NB.KE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.6_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kings",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "05",
+      "HASC_2": "CA.NB.KI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.7_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Madawaska",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "13",
+      "HASC_2": "CA.NB.MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.8_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Northumberland",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "09",
+      "HASC_2": "CA.NB.NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.9_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Queens",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "04",
+      "HASC_2": "CA.NB.QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.10_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Restigouche",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "14",
+      "HASC_2": "CA.NB.RE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.11_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "SaintJohn",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "01",
+      "HASC_2": "CA.NB.SJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.12_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Sunbury",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "03",
+      "HASC_2": "CA.NB.SU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.13_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Victoria",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "12",
+      "HASC_2": "CA.NB.VI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.14_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Westmorland",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "07",
+      "HASC_2": "CA.NB.WE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.4.15_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.4_1",
+      "NAME_1": "NewBrunswick",
+      "NL_NAME_1": "NA",
+      "NAME_2": "York",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "10",
+      "HASC_2": "CA.NB.YO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.6.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.6_1",
+      "NAME_1": "NorthwestTerritories",
+      "NL_NAME_1": "NA",
+      "NAME_2": "FortSmith",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "06",
+      "HASC_2": "CA.NT.FS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.6.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.6_1",
+      "NAME_1": "NorthwestTerritories",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Inuvik",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "07",
+      "HASC_2": "CA.NT.IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Annapolis",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "05",
+      "HASC_2": "CA.NS.AP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Antigonish",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "14",
+      "HASC_2": "CA.NS.AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "CapeBreton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "17",
+      "HASC_2": "CA.NS.CB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.4_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Colchester",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "10",
+      "HASC_2": "CA.NS.CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.5_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Cumberland",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "11",
+      "HASC_2": "CA.NS.CU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.6_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Digby",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "03",
+      "HASC_2": "CA.NS.DI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.7_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Guysborough",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "13",
+      "HASC_2": "CA.NS.GU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.8_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Halifax",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "09",
+      "HASC_2": "CA.NS.HL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.9_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Hants",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "08",
+      "HASC_2": "CA.NS.HN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.10_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Inverness",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "15",
+      "HASC_2": "CA.NS.IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.11_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kings",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "07",
+      "HASC_2": "CA.NS.KI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.12_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lunenburg",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "06",
+      "HASC_2": "CA.NS.LU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.13_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Pictou",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "12",
+      "HASC_2": "CA.NS.PI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.14_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Queens",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "04",
+      "HASC_2": "CA.NS.QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.15_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Richmond",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "16",
+      "HASC_2": "CA.NS.RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.16_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Shelburne",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "01",
+      "HASC_2": "CA.NS.SH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.17_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Victoria",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "18",
+      "HASC_2": "CA.NS.VI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.7.18_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.7_1",
+      "NAME_1": "NovaScotia",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Yarmouth",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "02",
+      "HASC_2": "CA.NS.YA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.8.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.8_1",
+      "NAME_1": "Nunavut",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Baffin",
+      "VARNAME_2": "Qikiqtaaluk",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "04",
+      "HASC_2": "CA.NU.QK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.8.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.8_1",
+      "NAME_1": "Nunavut",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Keewatin",
+      "VARNAME_2": "Kivalliq",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "05",
+      "HASC_2": "CA.NU.KV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.8.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.8_1",
+      "NAME_1": "Nunavut",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kitikmeot",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Region",
+      "ENGTYPE_2": "Region",
+      "CC_2": "08",
+      "HASC_2": "CA.NU.KT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Algoma",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "57",
+      "HASC_2": "CA.ON.AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Brant",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "29",
+      "HASC_2": "CA.ON.BN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Bruce",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "41",
+      "HASC_2": "CA.ON.BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.5_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Cochrane",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "56",
+      "HASC_2": "CA.ON.CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.6_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Dufferin",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "22",
+      "HASC_2": "CA.ON.DF"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.7_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Durham",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "18",
+      "HASC_2": "CA.ON.DR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.8_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Elgin",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "34",
+      "HASC_2": "CA.ON.EL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.9_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Essex",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "37",
+      "HASC_2": "CA.ON.ES"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.10_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Frontenac",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "10",
+      "HASC_2": "CA.ON.FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.12_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Grey",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "42",
+      "HASC_2": "CA.ON.GR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.13_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Haldimand-Norfolk",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "28",
+      "HASC_2": "CA.ON.HN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.14_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Haliburton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "46",
+      "HASC_2": "CA.ON.HB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.15_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Halton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "24",
+      "HASC_2": "CA.ON.HT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.17_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Hastings",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "12",
+      "HASC_2": "CA.ON.HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.18_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Huron",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "40",
+      "HASC_2": "CA.ON.HU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.20_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kenora",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "60",
+      "HASC_2": "CA.ON.KR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.21_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LakeErie",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Waterbody",
+      "ENGTYPE_2": "Waterbody",
+      "CC_2": "NA",
+      "HASC_2": "CA.ON.WB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.22_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LakeHurron",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Waterbody",
+      "ENGTYPE_2": "Waterbody",
+      "CC_2": "NA",
+      "HASC_2": "CA.ON.WB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.23_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LakeOntario",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Waterbody",
+      "ENGTYPE_2": "Waterbody",
+      "CC_2": "NA",
+      "HASC_2": "CA.ON.WB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.24_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LakeSuperior",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "Waterbody",
+      "ENGTYPE_2": "Waterbody",
+      "CC_2": "NA",
+      "HASC_2": "CA.ON.WB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.25_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lambton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "38",
+      "HASC_2": "CA.ON.LM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.26_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lanark",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "09",
+      "HASC_2": "CA.ON.LN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.27_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeedsandGrenville",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "UnitedCounty",
+      "ENGTYPE_2": "UnitedCounty",
+      "CC_2": "07",
+      "HASC_2": "CA.ON.LG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.28_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LennoxandAddington",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "11",
+      "HASC_2": "CA.ON.LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.29_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Manitoulin",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "51",
+      "HASC_2": "CA.ON.MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.30_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Middlesex",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "39",
+      "HASC_2": "CA.ON.MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.31_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Muskoka",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "DistrictMunicipality",
+      "ENGTYPE_2": "DistrictMunicipality",
+      "CC_2": "44",
+      "HASC_2": "CA.ON.MU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.32_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Niagara",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "26",
+      "HASC_2": "CA.ON.NG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.33_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Nipissing",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "48",
+      "HASC_2": "CA.ON.NP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.34_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Northumberland",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "14",
+      "HASC_2": "CA.ON.NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.36_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Oxford",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "32",
+      "HASC_2": "CA.ON.OX"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.37_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "ParrySound",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "49",
+      "HASC_2": "CA.ON.PS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.38_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Peel",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "21",
+      "HASC_2": "CA.ON.PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.39_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Perth",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "31",
+      "HASC_2": "CA.ON.PT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.40_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Peterborough",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "15",
+      "HASC_2": "CA.ON.PB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.41_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "PrescottandRussell",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "UnitedCounties",
+      "ENGTYPE_2": "UnitedCounties",
+      "CC_2": "02",
+      "HASC_2": "CA.ON.PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.43_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "RainyRiver",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "59",
+      "HASC_2": "CA.ON.RR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.44_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Renfrew",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "47",
+      "HASC_2": "CA.ON.RE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.45_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Simcoe",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "43",
+      "HASC_2": "CA.ON.SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.46_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Stormont,DundasandGlengarry",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "UnitedCounties",
+      "ENGTYPE_2": "UnitedCounties",
+      "CC_2": "01",
+      "HASC_2": "CA.ON.SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.47_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Sudbury",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "52",
+      "HASC_2": "CA.ON.SB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.48_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "ThunderBay",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "58",
+      "HASC_2": "CA.ON.TB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.49_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Timiskaming",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "District",
+      "ENGTYPE_2": "District",
+      "CC_2": "54",
+      "HASC_2": "CA.ON.TI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.51_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Waterloo",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "30",
+      "HASC_2": "CA.ON.WT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.52_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Wellington",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "23",
+      "HASC_2": "CA.ON.WL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.9.53_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.9_1",
+      "NAME_1": "Ontario",
+      "NL_NAME_1": "NA",
+      "NAME_2": "York",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalMunicipality",
+      "ENGTYPE_2": "RegionalMunicipality",
+      "CC_2": "19",
+      "HASC_2": "CA.ON.YO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.10.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.10_1",
+      "NAME_1": "PrinceEdwardIsland",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kings",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "01",
+      "HASC_2": "CA.PE.KI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.10.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.10_1",
+      "NAME_1": "PrinceEdwardIsland",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Prince",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "03",
+      "HASC_2": "CA.PE.PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.10.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.10_1",
+      "NAME_1": "PrinceEdwardIsland",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Queens",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "02",
+      "HASC_2": "CA.PE.QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.2_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Abitibi",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "88",
+      "HASC_2": "CA.QC.AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Abitibi-Ouest",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "87",
+      "HASC_2": "CA.QC.AO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.3_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Acton",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "48",
+      "HASC_2": "CA.QC.AC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.4_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Antoine-Labelle",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "79",
+      "HASC_2": "CA.QC.AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.5_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Argenteuil",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "76",
+      "HASC_2": "CA.QC.AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.6_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Arthabaska",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "39",
+      "HASC_2": "CA.QC.AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.7_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Asbestos",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "40",
+      "HASC_2": "CA.QC.AS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.8_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Avignon",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "06",
+      "HASC_2": "CA.QC.AV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.9_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Beauce-Sartigan",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "29",
+      "HASC_2": "CA.QC.BS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.10_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Beauharnois-Salaberry",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "70",
+      "HASC_2": "CA.QC.BH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.11_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Bécancour",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "38",
+      "HASC_2": "CA.QC.BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.12_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Bellechasse",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "19",
+      "HASC_2": "CA.QC.BL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.13_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Bonaventure",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "05",
+      "HASC_2": "CA.QC.BO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.14_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Brome-Missisquoi",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "46",
+      "HASC_2": "CA.QC.BM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.15_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Champlain",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "58",
+      "HASC_2": "CA.QC.CP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.17_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Charlevoix",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "16",
+      "HASC_2": "CA.QC.CV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.16_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Charlevoix-Est",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "15",
+      "HASC_2": "CA.QC.CE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.18_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Coaticook",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "44",
+      "HASC_2": "CA.QC.CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.19_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Communauté-Urbaine-de-l'Outaouai",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "81",
+      "HASC_2": "CA.QC.OU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.20_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Communauté-Urbaine-de-Montréal",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "66",
+      "HASC_2": "CA.QC.MR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.21_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Communauté-Urbaine-de-Québec",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "23",
+      "HASC_2": "CA.QC.QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.22_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "D'Autray",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "52",
+      "HASC_2": "CA.QC.DA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.23_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Desjardins",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "24",
+      "HASC_2": "CA.QC.DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.24_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Deux-Montagnes",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "72",
+      "HASC_2": "CA.QC.DM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.25_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Drummond",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "49",
+      "HASC_2": "CA.QC.DU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.26_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Francheville",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "37",
+      "HASC_2": "CA.QC.FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.27_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Joliette",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "61",
+      "HASC_2": "CA.QC.JO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.28_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Kamouraska",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "14",
+      "HASC_2": "CA.QC.KA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.29_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "L'Amiante",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "31",
+      "HASC_2": "CA.QC.AM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.30_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "L'Assomption",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "60",
+      "HASC_2": "CA.QC.AN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.31_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "L'Érable",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "32",
+      "HASC_2": "CA.QC.ER"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.32_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "L'Île-d'Orléans",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "20",
+      "HASC_2": "CA.QC.IO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.33_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "L'Islet",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "17",
+      "HASC_2": "CA.QC.IS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.34_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaCôte-de-Beaupré",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "21",
+      "HASC_2": "CA.QC.CB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.35_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaCôte-de-Gaspé",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "03",
+      "HASC_2": "CA.QC.CG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.36_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaHaute-Côte-Nord",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "95",
+      "HASC_2": "CA.QC.HC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.37_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaHaute-Gaspésie",
+      "VARNAME_2": "Denis-Riverin",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "04",
+      "HASC_2": "CA.QC.DR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.38_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaHaute-Yamaska",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "47",
+      "HASC_2": "CA.QC.HY"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.39_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaJacques-Cartier",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "22",
+      "HASC_2": "CA.QC.JC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.40_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaMatapédia",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "07",
+      "HASC_2": "CA.QC.MP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.41_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaMitis",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "09",
+      "HASC_2": "CA.QC.MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.42_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaNouvelle-Beauce",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "26",
+      "HASC_2": "CA.QC.NB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.43_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaRégion-Sherbrookoise",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "43",
+      "HASC_2": "CA.QC.SH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.44_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaRivière-du-Nord",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "75",
+      "HASC_2": "CA.QC.RD"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.45_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaVallée-de-la-Gatineau",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "83",
+      "HASC_2": "CA.QC.VG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.46_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LaVallée-du-Richelieu",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "57",
+      "HASC_2": "CA.QC.VR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.47_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lac-Saint-Jean-Est",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "93",
+      "HASC_2": "CA.QC.LS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.48_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lajemmerais",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "59",
+      "HASC_2": "CA.QC.LJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.49_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Laval",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "65",
+      "HASC_2": "CA.QC.LV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.50_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeBas-Richelieu",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "53",
+      "HASC_2": "CA.QC.BR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.51_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeCentre-de-la-Mauricie",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "36",
+      "HASC_2": "CA.QC.CM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.52_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeDomaine-du-Roy",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "91",
+      "HASC_2": "CA.QC.DD"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.53_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeFjord-du-Saguenay",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "94",
+      "HASC_2": "CA.QC.FS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.54_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeGranit",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "30",
+      "HASC_2": "CA.QC.GR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.55_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeHaut-Richelieu",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "56",
+      "HASC_2": "CA.QC.HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.56_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeHaut-Saint-François",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "41",
+      "HASC_2": "CA.QC.HF"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.57_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeHaut-Saint-Laurent",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "69",
+      "HASC_2": "CA.QC.HL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.58_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeHaut-Saint-Maurice",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "90",
+      "HASC_2": "CA.QC.HM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.59_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeRocher-Percé",
+      "VARNAME_2": "Pabok",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "MunicipalitéRégionaledeComté",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "02",
+      "HASC_2": "CA.QC.PB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.60_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LeVal-Saint-François",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "42",
+      "HASC_2": "CA.QC.VF"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.61_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesBasques",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "11",
+      "HASC_2": "CA.QC.BA"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.62_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesChutes-de-la-Chaudière",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "25",
+      "HASC_2": "CA.QC.CC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.63_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesCollines-de-l'Outaouais",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "82",
+      "HASC_2": "CA.QC.CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.64_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesEtchemins",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "28",
+      "HASC_2": "CA.QC.ET"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.65_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesÎles-de-la-Madeleine",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "01",
+      "HASC_2": "CA.QC.IM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.66_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesJardins-de-Napierville",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "68",
+      "HASC_2": "CA.QC.JN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.67_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesLaurentides",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "78",
+      "HASC_2": "CA.QC.LL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.68_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesMaskoutains",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "54",
+      "HASC_2": "CA.QC.MK"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.69_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesMoulins",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "64",
+      "HASC_2": "CA.QC.MU"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.70_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "LesPays-d'en-Haut",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "77",
+      "HASC_2": "CA.QC.PH"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.71_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Lotbinière",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "33",
+      "HASC_2": "CA.QC.LO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.72_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Manicouagan",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "96",
+      "HASC_2": "CA.QC.MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.73_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Maria-Chapdelaine",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "92",
+      "HASC_2": "CA.QC.MC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.74_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Maskinongé",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "51",
+      "HASC_2": "CA.QC.MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.75_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Matane",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "08",
+      "HASC_2": "CA.QC.MT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.76_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Matawinie",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "62",
+      "HASC_2": "CA.QC.MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.77_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Mékinac",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "35",
+      "HASC_2": "CA.QC.ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.78_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Memphrémagog",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "45",
+      "HASC_2": "CA.QC.MG"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.80_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Mirabel",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "74",
+      "HASC_2": "CA.QC.ML"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.81_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Montcalm",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "63",
+      "HASC_2": "CA.QC.MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.82_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Montmagny",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "18",
+      "HASC_2": "CA.QC.MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.83_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Nicolet-Yamaska",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "50",
+      "HASC_2": "CA.QC.NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.84_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Nord-du-Québec",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "County",
+      "ENGTYPE_2": "County",
+      "CC_2": "99",
+      "HASC_2": "CA.QC.NQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.85_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Papineau",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "80",
+      "HASC_2": "CA.QC.PP"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.86_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Pontiac",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "84",
+      "HASC_2": "CA.QC.PN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.87_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Portneuf",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "34",
+      "HASC_2": "CA.QC.PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.88_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Rimouski-Neigette",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "10",
+      "HASC_2": "CA.QC.RM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.89_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Rivière-du-Loup",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "12",
+      "HASC_2": "CA.QC.RL"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.90_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Robert-Cliche",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "27",
+      "HASC_2": "CA.QC.RC"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.91_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Roussillon",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "67",
+      "HASC_2": "CA.QC.RS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.92_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Rouville",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "55",
+      "HASC_2": "CA.QC.RV"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.93_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Rouyn-Noranda",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "86",
+      "HASC_2": "CA.QC.RN"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.95_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Témiscamingue",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "85",
+      "HASC_2": "CA.QC.TM"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.96_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Témiscouata",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "13",
+      "HASC_2": "CA.QC.TT"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.97_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Thérèse-DeBlainville",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "73",
+      "HASC_2": "CA.QC.TB"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.98_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Vallée-de-l'Or",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "89",
+      "HASC_2": "CA.QC.VO"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.11.99_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.11_1",
+      "NAME_1": "Québec",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Vaudreuil-Soulanges",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "RegionalCountyMunicipality",
+      "ENGTYPE_2": "RegionalCountyMunicipality",
+      "CC_2": "71",
+      "HASC_2": "CA.QC.VS"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "GID_2": "CAN.13.1_1",
+      "GID_0": "CAN",
+      "COUNTRY": "Canada",
+      "GID_1": "CAN.13_1",
+      "NAME_1": "Yukon",
+      "NL_NAME_1": "NA",
+      "NAME_2": "Yukon",
+      "VARNAME_2": "NA",
+      "NL_NAME_2": "NA",
+      "TYPE_2": "CensusDivision",
+      "ENGTYPE_2": "Territory",
+      "CC_2": "01",
+      "HASC_2": "CA.YT.YT"
+    }
+  }
+]
